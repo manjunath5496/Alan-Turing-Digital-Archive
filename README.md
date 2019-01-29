@@ -155,6 +155,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 21.  The Incomputable Alan Turing By S. Barry Cooper </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+22.  Alan Turing, Enigma, and the Breaking of German Machine Ciphers in World War II By Lee A. Gladwin </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
 
 
 
