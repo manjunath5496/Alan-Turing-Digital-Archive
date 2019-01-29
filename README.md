@@ -174,6 +174,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 30. Alan Turing and the Decision Problem By Richard Zach</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+31. Machine de Turing</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
 
 
 
