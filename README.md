@@ -117,3 +117,26 @@
 
 3.  The Applications of Probability to Cryptography By Alan Turing</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+4.  Turing's Treatise on the Enigma By Alan Turing</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+5.  The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine By 
+Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+6.  Turing, Father of the Modern Computer By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+7.  Alan Turing's Automatic Computing Engine By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+8.  Alan Turing By Geoff Wilkins </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+9.  Turing Arts Symposium  By Cate Dowd </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+10.  A Bibliography of Publications of Alan Mathison Turing By Nelson H. F. Beebe </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
+
+
+
+
+
+
