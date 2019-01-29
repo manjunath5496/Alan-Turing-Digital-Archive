@@ -234,8 +234,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Turing-Digital-Ar
 
 60. Alan Turing Archive </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+61. Can Digital Computers Think? By Alan Turing  </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t61.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+62. Turing Machines, Computers, And Artificial Intelligence By Peter R. Krebs  </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t62.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+63. Turing Machines with Sublogarithmic Space By Andrzej Szepietowski  </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t63.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
