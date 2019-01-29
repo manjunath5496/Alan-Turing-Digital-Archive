@@ -141,6 +141,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 14.  Letter to Alan Turing By Giuseppe Longo </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+15.  The Legacy of Turing in Numerical Analysis By Felipe Cucker </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+16.  The Turing Test </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
