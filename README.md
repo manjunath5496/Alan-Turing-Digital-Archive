@@ -145,7 +145,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 16.  The Turing Test </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+17.  Alan Turing: The Hidden Wartime Manuscript By the Father of Computing </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+18.  Alan Turing and the Origins of Modern Gaussian Elimination By Froil&#225;n M. Dopico </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
