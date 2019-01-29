@@ -82,7 +82,7 @@
 </tr>
 <tr>
 <th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
-<td><a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t2.pdf" rel="nofollow"><em>Systems of Logic Based on Ordinals</em></a>&nbsp;(1938)</td>
+<td><a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t2.pdf" rel="nofollow"><em>Systems of Logic Based on Ordinals</em></a>&nbsp;(1938)</td>
 </tr>
 <tr>
 <th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
@@ -112,77 +112,77 @@
 
 1.  Computing Machinery and Intelligence By Alan Turing</br>
               
-      <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+      <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-2.  Systems of Logic Based on Ordinals By Alan Turing</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+2.  Systems of Logic Based on Ordinals By Alan Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-3.  The Applications of Probability to Cryptography By Alan Turing</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+3.  The Applications of Probability to Cryptography By Alan Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-4.  Turing's Treatise on the Enigma By Alan Turing</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+4.  Turing's Treatise on the Enigma By Alan Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 5.  The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine By 
-Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+Charles Petzold</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-6.  Turing, Father of the Modern Computer By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+6.  Turing, Father of the Modern Computer By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-7.  Alan Turing's Automatic Computing Engine By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+7.  Alan Turing's Automatic Computing Engine By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-8.  Alan Turing By Geoff Wilkins </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+8.  Alan Turing By Geoff Wilkins </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-9.  Turing Arts Symposium  By Cate Dowd </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+9.  Turing Arts Symposium  By Cate Dowd </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-10.  A Bibliography of Publications of Alan Mathison Turing By Nelson H. F. Beebe </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+10.  A Bibliography of Publications of Alan Mathison Turing By Nelson H. F. Beebe </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-11.  Alan Turing: His Work and Impact By Jan van Leeuwen </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+11.  Alan Turing: His Work and Impact By Jan van Leeuwen </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-12.  The Essential Turing By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+12.  The Essential Turing By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-13.  Mathematics in the Age of the Turing Machine By Thomas C. Hales </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+13.  Mathematics in the Age of the Turing Machine By Thomas C. Hales </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-14.  Letter to Alan Turing By Giuseppe Longo </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+14.  Letter to Alan Turing By Giuseppe Longo </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-15.  The Legacy of Turing in Numerical Analysis By Felipe Cucker </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+15.  The Legacy of Turing in Numerical Analysis By Felipe Cucker </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-16.  The Turing Test </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+16.  The Turing Test </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-17.  Alan Turing: The Hidden Wartime Manuscript By the Father of Computing </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+17.  Alan Turing: The Hidden Wartime Manuscript By the Father of Computing </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-18.  Alan Turing and the Origins of Modern Gaussian Elimination By Froil&#225;n M. Dopico </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+18.  Alan Turing and the Origins of Modern Gaussian Elimination By Froil&#225;n M. Dopico </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-19.  Alan Turing and the Turing Award Winners By Luis Lamb </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+19.  Alan Turing and the Turing Award Winners By Luis Lamb </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-20.  The Life and Intelligence of Alan Turing By Denbigh Starkey </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t20.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+20.  The Life and Intelligence of Alan Turing By Denbigh Starkey </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t20.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-21.  The Incomputable Alan Turing By S. Barry Cooper </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+21.  The Incomputable Alan Turing By S. Barry Cooper </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-22.  Alan Turing, Enigma, and the Breaking of German Machine Ciphers in World War II By Lee A. Gladwin </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+22.  Alan Turing, Enigma, and the Breaking of German Machine Ciphers in World War II By Lee A. Gladwin </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-23.  Alan Turing's Forgotten Ideas in Computer Science By Diane Proudfoot </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+23.  Alan Turing's Forgotten Ideas in Computer Science By Diane Proudfoot </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-24.  Alan Turing "Founder of Computer Science" By Prof. Jonathan P. Bowen </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+24.  Alan Turing "Founder of Computer Science" By Prof. Jonathan P. Bowen </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-25. The Ghost in the Quantum Turing Machine By Scott Aaronson </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+25. The Ghost in the Quantum Turing Machine By Scott Aaronson </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-26. The Turing Test: Then and Now By Peter Hawke </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t26.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+26. The Turing Test: Then and Now By Peter Hawke </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t26.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-27. Turing-Post Relativized Computability and Interactive Computing By Robert Irving Soare </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t27.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+27. Turing-Post Relativized Computability and Interactive Computing By Robert Irving Soare </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t27.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-28. Alan Turing, Computing, Bletchley, and Mathematics By Rod Downey </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t28.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+28. Alan Turing, Computing, Bletchley, and Mathematics By Rod Downey </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t28.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-29. AM Turing's ACE Report of 1946 and other papers </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t29.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+29. AM Turing's ACE Report of 1946 and other papers </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t29.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
-30. Alan Turing and the Decision Problem By Richard Zach</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+30. Alan Turing and the Decision Problem By Richard Zach</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-31. On Computable Numbers, with an Application to the Entscheidungsproblem By Alan Turing</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+31. On Computable Numbers, with an Application to the Entscheidungsproblem By Alan Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-32. La Machine de Turing </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t32.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+32. La Machine de Turing </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t32.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-33. The Chemical Basis of Morphogenesis By Alan Turing </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t33.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+33. The Chemical Basis of Morphogenesis By Alan Turing </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t33.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-34. Turing's Mathematical Work By P.D. Welch </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t34.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+34. Turing's Mathematical Work By P.D. Welch </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t34.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-35. Intelligent Machinery A Heretical Theory; reprinted in (Copeland 2004) </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t35.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+35. Intelligent Machinery A Heretical Theory; reprinted in (Copeland 2004) </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t35.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
