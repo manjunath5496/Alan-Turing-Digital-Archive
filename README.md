@@ -132,6 +132,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 10.  A Bibliography of Publications of Alan Mathison Turing By Nelson H. F. Beebe </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+11.  Alan Turing: His Work and Impact By Jan van Leeuwen </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
