@@ -157,6 +157,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 22.  Alan Turing, Enigma, and the Breaking of German Machine Ciphers in World War II By Lee A. Gladwin </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+23.  Alan Turing's Forgotten Ideas in Computer Science By Diane Proudfoot </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
 
 
 
