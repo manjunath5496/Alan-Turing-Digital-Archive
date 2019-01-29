@@ -230,5 +230,14 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Turing-Digital-Ar
 
 58. Thinking On The Web: Berners-Lee, Godel And Turing </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t58.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+59. Alan Turing and the Development of Artificial Intelligence </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t59.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+60. Alan Turing Archive </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
+
+
+
 
 
