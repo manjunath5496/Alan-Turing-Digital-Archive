@@ -161,6 +161,22 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 24.  Alan Turing "Founder of Computer Science" By Prof. Jonathan P. Bowen </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+25. The Ghost in the Quantum Turing Machine By Scott Aaronson </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+26. The Turing Test: Then and Now By Peter Hawke </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t26.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+27. Turing-Post Relativized Computability and Interactive Computing By Robert Irving Soare </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t27.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+28. Alan Turing, Computing, Bletchley, and Mathematics By Rod Downey </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t28.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+29. AM Turing's ACE Report of 1946 and other papers </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t29.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+30. Alan Turing and the Decision Problem By Richard Zach</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
+
 
 
 
