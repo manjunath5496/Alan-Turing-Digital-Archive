@@ -118,7 +118,7 @@
 
 3.  The Applications of Probability to Cryptography By Alan Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-4.  Turing's Treatise on the Enigma By Alan Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+4.  Turing's Treatise on the Enigma By Alan Turing</br> <a href="https://drive.google.com/file/d/1Q7zmJ2kAkvvvnzRCnjnZx3wBdRO3Rp6A/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 5.  The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine By 
 Charles Petzold</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
@@ -133,7 +133,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Turing-Digital-Ar
 
 10.  A Bibliography of Publications of Alan Mathison Turing By Nelson H. F. Beebe </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-11.  Alan Turing: His Work and Impact By Jan van Leeuwen </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+11.  Alan Turing: His Work and Impact By Jan van Leeuwen </br> <a href="https://drive.google.com/file/d/1hOlmAej0yrFql7-3hS28EgvtKKDg2DLf/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 12.  The Essential Turing By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
