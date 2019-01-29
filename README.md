@@ -135,6 +135,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 11.  Alan Turing: His Work and Impact By Jan van Leeuwen </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+12.  The Essential Turing By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+13.  Mathematics in the Age of the Turing Machine By Thomas C. Hales </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
 
 
 
