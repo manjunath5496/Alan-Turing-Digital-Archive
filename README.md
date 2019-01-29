@@ -182,7 +182,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 34. Turing's Mathematical Work By P.D. Welch </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t34.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-35. Intelligent machinery a heretical theory; reprinted in (Copeland 2004) </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t35.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+35. Intelligent Machinery A Heretical Theory; reprinted in (Copeland 2004) </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t35.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
