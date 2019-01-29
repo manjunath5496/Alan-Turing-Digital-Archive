@@ -159,6 +159,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 23.  Alan Turing's Forgotten Ideas in Computer Science By Diane Proudfoot </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+24.  Alan Turing "Founder of Computer Science" By Prof. Jonathan P. Bowen </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
 
 
 
