@@ -1,19 +1,18 @@
 <h2>About Alan Turing</h2>
 <p><img src="1.jpg" alt="Alan Turing" width="170" height="194" /></p>
 
-
-<table class="infobox biography vcard">
+<table>
 <tbody>
 <tr>
 <th scope="row">Born</th>
 <td>23 June 1912<br />
-<div class="birthplace"><a title="Maida Vale" href="https://en.wikipedia.org/wiki/Maida_Vale">Maida Vale</a>, London, England</div>
+<div><a title="Maida Vale" href="https://en.wikipedia.org/wiki/Maida_Vale">Maida Vale</a>, London, England</div>
 </td>
 </tr>
 <tr>
 <th scope="row">Died</th>
 <td>7 June 1954&nbsp;(aged&nbsp;41)<br />
-<div class="deathplace"><a title="Wilmslow" href="https://en.wikipedia.org/wiki/Wilmslow">Wilmslow</a>, Cheshire, England</div>
+<div><a title="Wilmslow" href="https://en.wikipedia.org/wiki/Wilmslow">Wilmslow</a>, Cheshire, England</div>
 </td>
 </tr>
 <tr>
@@ -22,7 +21,7 @@
 </tr>
 <tr>
 <th scope="row">Resting place</th>
-<td class="label">Ashes scattered near&nbsp;<a title="Woking Crematorium" href="https://en.wikipedia.org/wiki/Woking_Crematorium">Woking Crematorium</a><sup id="cite_ref-guardian_1-0" class="reference"><a href="https://en.wikipedia.org/wiki/Alan_Turing#cite_note-guardian-1">[1]</a></sup></td>
+<td>Ashes scattered near&nbsp;<a title="Woking Crematorium" href="https://en.wikipedia.org/wiki/Woking_Crematorium">Woking Crematorium</a><sup id="cite_ref-guardian_1-0" class="reference"></sup></td>
 </tr>
 <tr>
 <th scope="row">Residence</th>
@@ -35,7 +34,7 @@
 <tr>
 <th scope="row">Known&nbsp;for</th>
 <td>
-<div class="plainlist">
+<div>
 <ul>
 <li><a title="Cryptanalysis of the Enigma" href="https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma">Cryptanalysis of the Enigma</a></li>
 <li><a title="Turing's proof" href="https://en.wikipedia.org/wiki/Turing%27s_proof">Turing's proof</a></li>
@@ -56,8 +55,8 @@
 </tr>
 <tr>
 <th scope="row">Fields</th>
-<td class="category">
-<div class="plainlist">
+<td>
+<div>
 <ul>
 <li><a title="Logic" href="https://en.wikipedia.org/wiki/Logic">Logic</a></li>
 <li><a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">Mathematics</a></li>
@@ -71,7 +70,7 @@
 <tr>
 <th scope="row">Institutions</th>
 <td>
-<div class="plainlist">
+<div>
 <ul>
 <li><a title="University of Manchester" href="https://en.wikipedia.org/wiki/University_of_Manchester">University of Manchester</a></li>
 <li><a class="mw-redirect" title="Government Code and Cypher School" href="https://en.wikipedia.org/wiki/Government_Code_and_Cypher_School">Government Code and Cypher School</a></li>
@@ -82,25 +81,29 @@
 </tr>
 <tr>
 <th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
-<td><a class="external text" href="https://webspace.princeton.edu/users/jedwards/Turing%20Centennial%202012/Mudd%20Archive%20files/12285_AC100_Turing_1938.pdf" rel="nofollow"><em>Systems of Logic Based on Ordinals</em></a>&nbsp;(1938)</td>
+<td><a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t2.pdf" rel="nofollow"><em>Systems of Logic Based on Ordinals</em></a>&nbsp;(1938)</td>
 </tr>
 <tr>
 <th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
-<td><a title="Alonzo Church" href="https://en.wikipedia.org/wiki/Alonzo_Church">Alonzo Church</a><sup id="cite_ref-mathgene_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/Alan_Turing#cite_note-mathgene-3">[3]</a></sup></td>
+<td><a title="Alonzo Church" href="https://en.wikipedia.org/wiki/Alonzo_Church">Alonzo Church</a><sup id="cite_ref-mathgene_3-0" class="reference"></sup></td>
 </tr>
 <tr>
 <th scope="row">Doctoral students</th>
-<td><a title="Robin Gandy" href="https://en.wikipedia.org/wiki/Robin_Gandy">Robin Gandy</a><sup id="cite_ref-mathgene_3-1" class="reference"><a href="https://en.wikipedia.org/wiki/Alan_Turing#cite_note-mathgene-3">[3]</a></sup><sup id="cite_ref-gandyphd_4-0" class="reference"><a href="https://en.wikipedia.org/wiki/Alan_Turing#cite_note-gandyphd-4">[4]</a></sup></td>
+<td><a title="Robin Gandy" href="https://en.wikipedia.org/wiki/Robin_Gandy">Robin Gandy</a><sup id="cite_ref-mathgene_3-1" class="reference"></sup><sup id="cite_ref-gandyphd_4-0" class="reference"></sup></td>
 </tr>
 <tr>
 <th scope="row">Influences</th>
-<td><a title="" href="https://en.wikipedia.org/wiki/Max_Newman">Max Newman</a><sup id="cite_ref-5" class="reference"><a href="https://en.wikipedia.org/wiki/Alan_Turing#cite_note-5">[5]</a></sup></td>
+<td><a title="" href="https://en.wikipedia.org/wiki/Max_Newman">Max Newman</a><sup id="cite_ref-5" class="reference"></sup></td>
 </tr>
 <tr>
 <th colspan="2">Signature</th>
 </tr>
+<tr>
+<td style="text-align: center;" colspan="2"><img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></td>
+</tr>
 </tbody>
 </table>
+
 
 
 
