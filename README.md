@@ -139,6 +139,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 13.  Mathematics in the Age of the Turing Machine By Thomas C. Hales </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+14.  Letter to Alan Turing By Giuseppe Longo </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
 
 
 
