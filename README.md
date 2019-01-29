@@ -1,4 +1,4 @@
-<h2>About Alan Turing (Father of Modern Computer Science and Artificial Intelligence</h2>
+<h2>About Alan Turing</h2> (Father of Modern Computer Science and Artificial Intelligence)
 <p><img src="1.jpg" alt="Alan Turing" width="170" height="194" /></p>
 
 <table>
