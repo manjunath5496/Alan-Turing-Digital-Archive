@@ -5,7 +5,7 @@
 <p>After the War, Alan worked first at the National Physical Laboratory and then at Manchester University on the development of the computer from his first ideas in the early 1930s for a 'Turing machine'. He was elected a Fellow of the Royal Society in 1951. In the early 1950s he was developing a theory of morphogenesis, a mathematical theory of organic growth. The work was left incomplete when he died, on 8 June 1954, at his house in Wilmslow, Cheshire.</p>
 
 
-<p><strong>The Best Books for JEE Main & Advanced </strong></p>
+<p><strong>Further reading </strong></p>
 
 
 1.  Computing Machinery and Intelligence By Alan Turing</br>
