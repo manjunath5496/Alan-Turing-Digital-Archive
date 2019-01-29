@@ -184,8 +184,37 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Turing-Digital-Ar
 
 35. Intelligent Machinery A Heretical Theory; reprinted in (Copeland 2004) </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t35.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+36. RO Gandy An Early Proof of Normalization By Alan Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t36.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+37. An Early Program Proof By Alan Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t37.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+38. On Alan Turing and the Origins of Digital Computers By B. Randell</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t38.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+39. The Genius of Alan Turing: The Computing Classical Model By Luís Homem</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t39.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+40. Alan Turing and the Other Theory of Computation (expanded) By Lenore Blum</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t40.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+41. Alan Turing's Chemical Theory of Phyllotaxis By M.D. Rueda-Contreras</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t41.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+42. ACM Turing Award Lectures: The First Twenty Years (1966 &minus; 1985)</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t42.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+43. Mathematical Logic By Alan Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t43.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+44. Parsing the Turing Test By Gary Roberts</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t44.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+45. Thinking about Godel and Turing: Essays on Complexity, 1970 &minus; 2007</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t45.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+46. Turing (A Novel about Computation) By Christos Papadimitriou</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t46.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+47. Turing Option By Harry Harrison</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t47.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+48. Alan Turing: The Logical and Physical Basis of Computing By Andrew Hodges</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t48.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+49. The History of Artificial Intelligence</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t49.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+50. Mind, Computing Machinery and Intelligence By A.M.Turing</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t50.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+51. Alan Turing and Number Theory</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t51.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
