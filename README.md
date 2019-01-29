@@ -174,7 +174,15 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 30. Alan Turing and the Decision Problem By Richard Zach</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-31. Machine de Turing</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+31. On Computable Numbers, with an Application to the Entscheidungsproblem By Alan Turing</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+32. La Machine de Turing </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t32.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+33. The Chemical Basis of Morphogenesis By Alan Turing </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t33.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+34. Turing's Mathematical Work By P.D. Welch </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t34.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+35. Intelligent machinery a heretical theory; reprinted in (Copeland 2004) </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t35.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
