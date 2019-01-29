@@ -149,6 +149,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry
 
 18.  Alan Turing and the Origins of Modern Gaussian Elimination By Froil&#225;n M. Dopico </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+19.  Alan Turing and the Turing Award Winners By Luis Lamb </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+20.  The Life and Intelligence of Alan Turing By Denbigh Starkey </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t20.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+21.  The Incomputable Alan Turing By S. Barry Cooper </br> <a href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/t21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
