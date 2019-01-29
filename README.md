@@ -1,6 +1,6 @@
 <h3>About Alan Turing </h3> 
 <p><img src="1.jpg" alt="Alan Turing" width="170" height="194" /></p>
-
+<p>(Father of Modern Computer Science and Artificial Intelligence)</p>
 <table>
 <tbody>
 <tr>
