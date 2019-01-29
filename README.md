@@ -105,6 +105,7 @@
 </tbody>
 </table>
 
+</br>
 
 <p><strong>Further reading </strong></p>
 
