@@ -99,7 +99,7 @@
 <th colspan="2">Signature</th>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;   <img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></td>
+<td style="text-align: center;" colspan="2">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;  <img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></td>
 </tr>
 </tbody>
 </table>
