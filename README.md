@@ -216,8 +216,19 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Turing-Digital-Ar
 
 51. Alan Turing and Number Theory</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t51.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+52. Alan Turing: The Enigma By Andrew Hodges </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t52.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+53. A Madman Dreams of Turing Machines By Janna Levin </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t53.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+54. Computing Over The Reals Where Turing Meets Newton </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+55. Die Turing Option By Marvin Minsky</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t55.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+56. Hypercomputation: Computing Beyond the Church &minus; Turing Barrier</br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t56.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+57. The Turing Test (Doctor Who Series) </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t57.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+58. Thinking On The Web: Berners-Lee, Godel And Turing </br> <a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t58.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
