@@ -1,103 +1,48 @@
 <h2>About Alan Turing </h2> 
 <p> <strong>BRITISH MATHEMATICIAN AND LOGICIAN </strong></p>
 <p><img src="1.jpg" alt="Alan Turing" width="170" height="194" /></p>
-<h6>(Father of Modern Computer Science and Artificial Intelligence)</h6>
-</br>
-<table>
-<tbody>
-<tr>
-<th scope="row">Born</th>
-<td>23 June 1912<br />
-<div><a title="Maida Vale" href="https://en.wikipedia.org/wiki/Maida_Vale">Maida Vale</a>, London, England</div>
-</td>
-</tr>
-<tr>
-<th scope="row">Died</th>
-<td>7 June 1954&nbsp;(aged&nbsp;41)<br />
-<div><a title="Wilmslow" href="https://en.wikipedia.org/wiki/Wilmslow">Wilmslow</a>, Cheshire, England</div>
-</td>
-</tr>
-<tr>
-<th scope="row">Cause&nbsp;of death</th>
-<td><a title="Cyanide poisoning" href="https://en.wikipedia.org/wiki/Cyanide_poisoning">Cyanide poisoning</a></td>
-</tr>
-<tr>
-<th scope="row">Resting place</th>
-<td>Ashes scattered near&nbsp;<a title="Woking Crematorium" href="https://en.wikipedia.org/wiki/Woking_Crematorium">Woking Crematorium</a><sup id="cite_ref-guardian_1-0" class="reference"></sup></td>
-</tr>
-<tr>
-<th scope="row">Residence</th>
-<td><a title="Wilmslow" href="https://en.wikipedia.org/wiki/Wilmslow">Wilmslow</a>, Cheshire, England</td>
-</tr>
-<tr>
-<th scope="row">Education</th>
-<td><a title="King's College, Cambridge" href="https://en.wikipedia.org/wiki/King%27s_College,_Cambridge">King's College, Cambridge</a>&nbsp;(<a title="Bachelor of Arts" href="https://en.wikipedia.org/wiki/Bachelor_of_Arts">BA</a>,&nbsp;<a title="Master of Arts" href="https://en.wikipedia.org/wiki/Master_of_Arts">MA</a>)<br /><a title="Princeton University" href="https://en.wikipedia.org/wiki/Princeton_University">Princeton University</a>&nbsp;(<a title="Doctor of Philosophy" href="https://en.wikipedia.org/wiki/Doctor_of_Philosophy">PhD</a>)</td>
-</tr>
-<tr>
-<th scope="row">Known&nbsp;for</th>
-<td>
-<div>
-<ul>
-<li><a title="Cryptanalysis of the Enigma" href="https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma">Cryptanalysis of the Enigma</a></li>
-<li><a title="Turing's proof" href="https://en.wikipedia.org/wiki/Turing%27s_proof">Turing's proof</a></li>
-<li><a title="Turing machine" href="https://en.wikipedia.org/wiki/Turing_machine">Turing machine</a></li>
-<li><a title="Turing test" href="https://en.wikipedia.org/wiki/Turing_test">Turing test</a></li>
-<li><a title="Unorganized machine" href="https://en.wikipedia.org/wiki/Unorganized_machine">Unorganised machine</a></li>
-<li><a title="LU decomposition" href="https://en.wikipedia.org/wiki/LU_decomposition">LU decomposition</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row">Awards</th>
-<td><a title="Smith's Prize" href="https://en.wikipedia.org/wiki/Smith%27s_Prize">Smith's Prize</a>&nbsp;(1936)</td>
-</tr>
-<tr>
-<td colspan="2"><strong>Scientific career</strong></td>
-</tr>
-<tr>
-<th scope="row">Fields</th>
-<td>
-<div>
-<ul>
-<li><a title="Logic" href="https://en.wikipedia.org/wiki/Logic">Logic</a></li>
-<li><a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">Mathematics</a></li>
-<li><a title="Cryptanalysis" href="https://en.wikipedia.org/wiki/Cryptanalysis">Cryptanalysis</a></li>
-<li><a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">Computer science</a></li>
-<li><a title="Mathematical and theoretical biology" href="https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology">Mathematical and theoretical biology</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row">Institutions</th>
-<td>
-<div>
-<ul>
-<li><a title="University of Manchester" href="https://en.wikipedia.org/wiki/University_of_Manchester">University of Manchester</a></li>
-<li><a class="mw-redirect" title="Government Code and Cypher School" href="https://en.wikipedia.org/wiki/Government_Code_and_Cypher_School">Government Code and Cypher School</a></li>
-<li><a class="mw-redirect" title="National Physical Laboratory, UK" href="https://en.wikipedia.org/wiki/National_Physical_Laboratory,_UK">National Physical Laboratory</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
-<td><a href="https://github.com/manjunath5496/Turing-Digital-Archive/blob/master/t2.pdf" rel="nofollow"><em>Systems of Logic Based on Ordinals</em></a>&nbsp;(1938)</td>
-</tr>
-<tr>
-<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
-<td><a title="Alonzo Church" href="https://en.wikipedia.org/wiki/Alonzo_Church">Alonzo Church</a><sup id="cite_ref-mathgene_3-0" class="reference"></sup></td>
-</tr>
-<tr>
-<th scope="row">Doctoral students</th>
-<td><a title="Robin Gandy" href="https://en.wikipedia.org/wiki/Robin_Gandy">Robin Gandy</a><sup id="cite_ref-mathgene_3-1" class="reference"></sup><sup id="cite_ref-gandyphd_4-0" class="reference"></sup></td>
-</tr>
-<tr>
-<th scope="row">Influences</th>
-<td><a title="" href="https://en.wikipedia.org/wiki/Max_Newman">Max Newman</a><sup id="cite_ref-5" class="reference"></sup></td>
-</tr>
-<tr>
+<p><strong>Born:</strong>&nbsp;</p>
+<p>&nbsp;</p>
+<p>23 June 1912<br />Maida Vale, London, England</p>
+<p><br /><strong>Died</strong>&nbsp;:</p>
+<p>&nbsp;</p>
+<p>7 June 1954 (aged 41)<br />Wilmslow, Cheshire, England</p>
+<p><br /><strong>Cause of death:&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p>Cyanide poisoning</p>
+<p><br /><strong>Resting place:&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p>Ashes scattered near Woking Crematorium</p>
+<p><br /><strong>Residence:</strong></p>
+<p>&nbsp;</p>
+<p>Wilmslow, Cheshire, England</p>
+<p><br /><strong>Education:</strong></p>
+<p>King's College, Cambridge (BA, MA)<br />Princeton University (PhD)</p>
+<p><br /><strong>Known for:</strong></p>
+<p><br />Cryptanalysis of the Enigma<br />Turing's proof<br />Turing machine<br />Turing test<br />Unorganised machine<br />LU decomposition</p>
+<p><br /><strong>Awards:</strong></p>
+<p>Smith's Prize (1936)</p>
+<p>&nbsp;</p>
+<p><strong>Scientific career:</strong></p>
+<p><br /><strong>Fields</strong></p>
+<p><br />Logic<br />Mathematics<br />Cryptanalysis<br />Computer science<br />Mathematical and theoretical biology</p>
+<p><br /><strong>Institutions:</strong></p>
+<p><br />University of Manchester<br />Government Code and Cypher School<br />National Physical Laboratory</p>
+<p><br /><strong>Thesis:</strong></p>
+<p>&nbsp;</p>
+<p>Systems of Logic Based on Ordinals (1938)</p>
+<p><br /><strong>Doctoral advisor:</strong></p>
+<p>&nbsp;</p>
+<p>Alonzo Church</p>
+<p><br /><strong>Doctoral students:</strong></p>
+<p>&nbsp;</p>
+<p>Robin Gandy</p>
+<p><br /><strong>Influences:</strong></p>
+<p>&nbsp;</p>
+<p>Max Newman</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <th colspan="2">Signature</th>
 </tr>
 <tr>
