@@ -183,5 +183,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 65. The Imitation Game By Graham Moore </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
+<p>&nbsp;</p>
 
+<img src="13.jpg" alt="Alan Turing" width="400" height="264" />
+<p><strong>Statue of Alan Turing made of layers of stacked slate, shown from the chest up</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
