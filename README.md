@@ -252,7 +252,14 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <img src="15.jpg" alt="Bombe machine" width="150" height="225" />
 <p><strong>Bombe machine</strong>&nbsp;</p>
 <p>Detail of rotating (top) drums on a rebuilt Bombe machine, a code-breaking machine, originally developed by Alan Turing and others, used during World War II; in the National Museum of Computing, Bletchley Park, Milton Keynes, Buckinghamshire, England.</p>
-
-
-
 <p>&nbsp;</p>
+
+<img src="17.jpg" alt="Alan Turing" width="225" height="165" />
+<p><strong>Turing memorial statue plaque in Sackville Park, Manchester</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+
