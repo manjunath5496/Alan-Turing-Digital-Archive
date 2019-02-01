@@ -1,57 +1,39 @@
-<h2>About Alan Turing </h2> 
-<p> <strong>BRITISH MATHEMATICIAN AND LOGICIAN </strong></p>
-<p><img src="1.jpg" alt="Alan Turing" width="170" height="194" /></p>
 <p><strong>Born:</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>23 June 1912<br />Maida Vale, London, England</p>
+<p>&nbsp;23 June 1912<br />Maida Vale, London, England</p>
 <p><br /><strong>Died</strong>&nbsp;:</p>
-<p>&nbsp;</p>
-<p>7 June 1954 (aged 41)<br />Wilmslow, Cheshire, England</p>
+<p>&nbsp;7 June 1954 (aged 41)<br />Wilmslow, Cheshire, England</p>
 <p><br /><strong>Cause of death:&nbsp;</strong></p>
-<p>&nbsp;</p>
-<p>Cyanide poisoning</p>
+<p>&nbsp;Cyanide poisoning</p>
 <p><br /><strong>Resting place:&nbsp;</strong></p>
-<p>&nbsp;</p>
-<p>Ashes scattered near Woking Crematorium</p>
+<p>&nbsp;Ashes scattered near Woking Crematorium</p>
 <p><br /><strong>Residence:</strong></p>
-<p>&nbsp;</p>
-<p>Wilmslow, Cheshire, England</p>
+<p>&nbsp;Wilmslow, Cheshire, England</p>
 <p><br /><strong>Education:</strong></p>
 <p>King's College, Cambridge (BA, MA)<br />Princeton University (PhD)</p>
 <p><br /><strong>Known for:</strong></p>
-<p><br />Cryptanalysis of the Enigma<br />Turing's proof<br />Turing machine<br />Turing test<br />Unorganised machine<br />LU decomposition</p>
+<p>Cryptanalysis of the Enigma<br />Turing's proof<br />Turing machine<br />Turing test<br />Unorganised machine<br />LU decomposition</p>
 <p><br /><strong>Awards:</strong></p>
 <p>Smith's Prize (1936)</p>
 <p>&nbsp;</p>
 <p><strong>Scientific career:</strong></p>
 <p><br /><strong>Fields</strong></p>
-<p><br />Logic<br />Mathematics<br />Cryptanalysis<br />Computer science<br />Mathematical and theoretical biology</p>
+<p>Logic<br />Mathematics<br />Cryptanalysis<br />Computer science<br />Mathematical and theoretical biology</p>
 <p><br /><strong>Institutions:</strong></p>
-<p><br />University of Manchester<br />Government Code and Cypher School<br />National Physical Laboratory</p>
+<p>University of Manchester<br />Government Code and Cypher School<br />National Physical Laboratory</p>
 <p><br /><strong>Thesis:</strong></p>
-<p>&nbsp;</p>
-<p>Systems of Logic Based on Ordinals (1938)</p>
+<p>&nbsp;Systems of Logic Based on Ordinals (1938)</p>
 <p><br /><strong>Doctoral advisor:</strong></p>
-<p>&nbsp;</p>
-<p>Alonzo Church</p>
+<p>&nbsp;Alonzo Church</p>
 <p><br /><strong>Doctoral students:</strong></p>
-<p>&nbsp;</p>
-<p>Robin Gandy</p>
+<p>&nbsp;Robin Gandy</p>
 <p><br /><strong>Influences:</strong></p>
+<p>&nbsp;Max Newman</p>
 <p>&nbsp;</p>
-<p>Max Newman</p>
+<p><strong>Signature:</strong></p>
+<p>&nbsp;</p>
+<p><img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-<th colspan="2">Signature</th>
-</tr>
-<tr>
-<td style="text-align: center;" colspan="2"> <img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></td>
-</tr>
-</tbody>
-</table>
-
-</br>
 
 <p><strong>Further reading </strong></p>
 
