@@ -1,3 +1,11 @@
+<p>&nbsp;</p>
+<h1>Alan Turing</h1>
+<div class="topic-identifier">BRITISH MATHEMATICIAN AND LOGICIAN</div>
+<p>&nbsp;</p>
+
+
+
+
 <p><strong>Born:</strong>&nbsp;</p>
 <p>&nbsp;23 June 1912<br />Maida Vale, London, England</p>
 <p><br /><strong>Died</strong>&nbsp;:</p>
