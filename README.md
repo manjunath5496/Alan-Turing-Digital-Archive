@@ -2,10 +2,7 @@
 <h1>Alan Turing</h1>
 <div class="topic-identifier">BRITISH MATHEMATICIAN AND LOGICIAN</div>
 <p>&nbsp;</p>
-
-
-
-
+<img src="1.jpg" alt="Alan Turing" width="174" height="194" />
 <p><strong>Born:</strong>&nbsp;</p>
 <p>&nbsp;23 June 1912<br />Maida Vale, London, England</p>
 <p><br /><strong>Died</strong>&nbsp;:</p>
@@ -38,7 +35,6 @@
 <p>&nbsp;Max Newman</p>
 <p>&nbsp;</p>
 <p><strong>Signature:</strong></p>
-<p>&nbsp;</p>
 <p><img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
