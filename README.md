@@ -36,8 +36,6 @@
 <p>&nbsp;</p>
 <p><strong>Signature:</strong></p>
 <p><img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <p><strong>Further reading </strong></p>
 
