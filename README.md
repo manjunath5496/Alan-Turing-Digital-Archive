@@ -202,10 +202,15 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 
 75. The Enigma Machine By Eric Roberts</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+76. The Military Use of Alan Turing By Andrew Hodges</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t76.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+77. Dr. Alan Turing "Father of Computer Science and Philosopher" By Paul Conn</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t77.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+78. Turing and von Neumann's Brains and their Computers</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t78.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+79. Cryptography and Alan Turing</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t79.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+80. Undecidable problems</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t80.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
