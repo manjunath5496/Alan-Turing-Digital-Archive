@@ -37,6 +37,14 @@
 <p><strong>Signature:</strong></p>
 <p><img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></p>
 <p>&nbsp;</p>
+
+<img src="2.png" alt="Alan Turing" width="480" height="300" />
+<p><strong>Alan Turing with school friends, Robin and John Wainwright and Hugh Highet</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
 <p><strong>Further reading </strong></p>
 
 
