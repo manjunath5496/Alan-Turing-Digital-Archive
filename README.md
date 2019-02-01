@@ -182,6 +182,33 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 
 65. The Imitation Game By Graham Moore </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+66. Breaking Enigma By Jeremy Wright </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t66.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+67. Breaking Enigma and the U-boat Codes and the Legacy of Alan Turing </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t67.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+68. Alan Turing and Enigmatic Statistics By S. Barry Cooper </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t68.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+69. Letter to Norman Routledge By Alan Turing </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t69.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+70. Maths from the talk: "Alan Turing and the Enigma Machine" </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t70.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+71. The Genius Who Gave Us The Future: 100 years of Alan Turing </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t71.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+72. Turing and the Computer By Diane Proudfoot</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t72.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+73. Alan Turing at Bletchley Park in World War II By Tony Sale</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t73.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+74. Alan Turing: Life and Legacy of a Great Thinker By D Hofstadter</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t74.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+75. The Enigma Machine By Eric Roberts</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
+
+
+
+
+
 
 <p>&nbsp;</p>
 
