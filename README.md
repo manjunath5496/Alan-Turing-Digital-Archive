@@ -244,4 +244,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing (right) stands next to the Ferranti Mark I. Photo courtesy of the University of Manchester</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="15.jpg" alt="Bombe machine" width="350" height="400" />
+<p><strong>Bombe machine</strong>&nbsp;</p>
+<p>Detail of rotating (top) drums on a rebuilt Bombe machine, a code-breaking machine, originally developed by Alan Turing and others, used during World War II; in the National Museum of Computing, Bletchley Park, Milton Keynes, Buckinghamshire, England.</p>
 
+
+
+<p>&nbsp;</p>
