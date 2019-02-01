@@ -173,3 +173,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 63. Turing Machines with Sublogarithmic Space By Andrzej Szepietowski  </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t63.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 64. The Automatic Computing Machine By Alan Turing </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t64.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+65. The Imitation Game By Graham Moore </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
+
