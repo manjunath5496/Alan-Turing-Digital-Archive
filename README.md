@@ -240,5 +240,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p>&nbsp;</p>
 
 
+<img src="14.jpg" alt="Alan Turing" width="400" height="162" />
+<p><strong>Alan Turing (right) stands next to the Ferranti Mark I. Photo courtesy of the University of Manchester</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
