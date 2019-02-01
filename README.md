@@ -190,26 +190,26 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p>&nbsp;</p>
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... in music by the Pet Shop Boys, 23 July 2014.</p>
-<p><br />1912 (23 June): Birth, Paddington, London</p>
-<p><br />1926-31: Sherborne School</p>
-<p><br />1930: Death of friend Christopher Morcom</p>
-<p><br />1931-34: Undergraduate at King's College, Cambridge University</p>
-<p><br />1932-35: Quantum mechanics, probability, logic. Fellow of King's College, Cambridge</p>
-<p><br />1936: The Turing machine, computability, universal machine</p>
-<p><br />1936-38: Princeton University. Ph.D. Logic, algebra, number theory</p>
-<p><br />1938-39: Return to Cambridge. Introduced to German Enigma cipher machine</p>
-<p><br />1939-40: The Bombe, machine for Enigma decryption</p>
-<p><br />1939-42: Breaking of U-boat Enigma, saving battle of the Atlantic</p>
-<p><br />1943-45: Chief Anglo-American crypto consultant. Electronic work.</p>
-<p><br />1945: National Physical Laboratory, London</p>
-<p><br />1946: Computer and software design leading the world.</p>
-<p><br />1947-48: Programming, neural nets, and artificial intelligence</p>
-<p><br />1948: Manchester University, first serious mathematical use of a computer</p>
-<p><br />1950: The Turing Test for machine intelligence</p>
-<p><br />1951: Elected FRS. Non-linear theory of biological growth</p>
-<p><br />1952: Arrested as a homosexual, loss of security clearance</p>
-<p><br />1953-54: Unfinished work in biology and physics</p>
-<p><br />1954 (7 June): Death (suicide) by cyanide poisoning, Wilmslow, Cheshire.</p>
+<p><br /><strong>1912 (23 June):</strong> Birth, Paddington, London</p>
+<p><br /><strong>1926-31:</strong> Sherborne School</p>
+<p><br /><strong>1930:</strong> Death of friend Christopher Morcom</p>
+<p><br /><strong>1931-34:</strong> Undergraduate at King's College, Cambridge University</p>
+<p><br /><strong>1932-35:</strong> Quantum mechanics, probability, logic. Fellow of King's College, Cambridge</p>
+<p><br /><strong>1936:</strong> The Turing machine, computability, universal machine</p>
+<p><br /><strong>1936-38:</strong> Princeton University. Ph.D. Logic, algebra, number theory</p>
+<p><br /><strong>1938-39:</strong> Return to Cambridge. Introduced to German Enigma cipher machine</p>
+<p><br /><strong>1939-40:</strong> The Bombe, machine for Enigma decryption</p>
+<p><br /><strong>1939-42:</strong> Breaking of U-boat Enigma, saving battle of the Atlantic</p>
+<p><br /><strong>1943-45:</strong> Chief Anglo-American crypto consultant. Electronic work.</p>
+<p><br /><strong>1945:</strong> National Physical Laboratory, London</p>
+<p><br /><strong>1946:</strong> Computer and software design leading the world.</p>
+<p><br /><strong>1947-48:</strong> Programming, neural nets, and artificial intelligence</p>
+<p><br /><strong>1948:</strong> Manchester University, first serious mathematical use of a computer</p>
+<p><br /><strong>1950:</strong> The Turing Test for machine intelligence</p>
+<p><br /><strong>1951:</strong> Elected FRS. Non-linear theory of biological growth</p>
+<p><br /><strong>1952:</strong> Arrested as a homosexual, loss of security clearance</p>
+<p><br /><strong>1953-54:</strong> Unfinished work in biology and physics</p>
+<p><br /><strong>1954 (7 June):</strong> Death (suicide) by cyanide poisoning, Wilmslow, Cheshire.</p>
 <p>&nbsp;</p>
 
 
