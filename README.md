@@ -216,6 +216,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Statue of Alan Turing made of layers of stacked slate, shown from the chest up</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="16.png" alt="Alan Turing" width="593" height="611" />
+<p>&nbsp;</p>
+
+
+
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... in music by the Pet Shop Boys, 23 July 2014.</p>
 <p><br /><strong>1912 (23 June):</strong> Birth, Paddington, London</p>
 <p><br /><strong>1926-31:</strong> Sherborne School</p>
