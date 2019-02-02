@@ -395,7 +395,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>A page from the notebook of British mathematician and pioneer in computer science Alan Turing, the World War II code-breaking genius, is displayed in front of his portrait during an auction preview in Hong Kong.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="55.jpg" alt="Alan Turing" width="225" height="294" />
+<img src="55.jpg" alt="Alan Turing" width="319" height="250" />
 <p><strong>Cassandra Hatton, senior specialist in fine books and manuscripts and director of the history of science from Bonhams auction house, shows a notebook of British mathematician and pioneer in computer science Alan Turing, the World War II code-breaking genius, and an operational 3-rotor German Enigma machine during an auction preview in Hong Kong on Thursday, March 19, 2015.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
