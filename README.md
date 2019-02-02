@@ -289,5 +289,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing memorial</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="27.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Turing lived the last years of his life at this home in Wilmslow, Cheshire near Manchester. He took his own life at this house on June 7, 1954.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
