@@ -302,6 +302,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Hut 8 at Bletchley Park is the building Turing worked in during the early years of World War II. Turing was instrumental in breaking the German naval Enigma code.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="30.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>In 1931, Turing began his studies at King's College, Cambridge.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
 
 
 
