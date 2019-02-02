@@ -363,6 +363,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Turing was recruited to the National Physical Laboratory in 1945.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="46.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>The Queen visits Bletchley Park and studies an Enigma machine. She grants Turing a royal pardon on 23 December 2013.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
