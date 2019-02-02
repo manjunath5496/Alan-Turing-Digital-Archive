@@ -407,7 +407,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 
 14.  Alan Turing: Devastated by his friend's death (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-
+<img src="53.jpg" alt="Alan Turing" width="319" height="250" />
+<p>&nbsp;</p>
 
 
 
