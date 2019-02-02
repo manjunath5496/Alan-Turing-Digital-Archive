@@ -314,6 +314,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Turing's statue at Bletchley Park.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="34.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Turing in a photo from his days at the Sherborne School.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
