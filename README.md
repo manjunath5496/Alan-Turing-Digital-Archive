@@ -399,7 +399,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Cassandra Hatton, senior specialist in fine books and manuscripts and director of the history of science from Bonhams auction house, shows a notebook of British mathematician and pioneer in computer science Alan Turing, the World War II code-breaking genius, and an operational 3-rotor German Enigma machine during an auction preview in Hong Kong on Thursday, March 19, 2015.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+81. Alan Turing: Designs first computer (Video transcript: Clip from Horizon: The Strange Life and Death of Alan Turing, produced by Christopher Sykes Productions) </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t81.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+12.  Alan Turing: Convicted for gross indecency (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t82.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+13.  Alan Turing: Suicide (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t83.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+14.  Alan Turing: Devastated by his friend's death (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 
