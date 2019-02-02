@@ -298,7 +298,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p>&nbsp;</p>
 
 
-
+<img src="29.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Hut 8 at Bletchley Park is the building Turing worked in during the early years of World War II. Turing was instrumental in breaking the German naval Enigma code.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
