@@ -379,6 +379,21 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing's codebreakers decoding of the Enigma Machine helped win WW2.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="50.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>ALAN TURING: Bletchley Park will reopen as the National College of Cyber Security.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="51.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>U-BOATS: Breaking the Enigma code allowed Brit ships to evade German U-boats.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="52.jpg" alt="Alan Turing" width="250" height="166" />
+<p><strong>Alan Turing (far left) on a bus.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
 
 
 
