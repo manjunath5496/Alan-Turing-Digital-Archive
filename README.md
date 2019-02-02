@@ -367,5 +367,18 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>The Queen visits Bletchley Park and studies an Enigma machine. She grants Turing a royal pardon on 23 December 2013.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="47.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>The young Alan Turing in more innocent times.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="48.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Ratio Club at Cambridge 1952, Giles Brindley (yellow), Donald MacKay (red), Alan Turing (green).</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+
 
 
