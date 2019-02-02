@@ -375,6 +375,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Ratio Club at Cambridge 1952, Giles Brindley (yellow), Donald MacKay (red), Alan Turing (green).</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="49.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Alan Turing's codebreakers decoding of the Enigma Machine helped win WW2.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
