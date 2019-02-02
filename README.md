@@ -321,3 +321,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <img src="35.jpg" alt="Alan Turing" width="154" height="231" />
 <p><strong>Alan Turing as a boy.</strong>&nbsp;</p>
 <p>&nbsp;</p>
+
+<img src="36.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Alan Turing, second from right, with (L-R) Hogg, Geoffrey OHanlon (housemaster) and White.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
