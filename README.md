@@ -277,6 +277,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>During World War II, Bletchley Park housed the UK's code breaking efforts against the Axis powers. Turing worked here</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="24.jpg" alt="Alan Turing" width="218" height="275" />
+<p><strong>Turing reading</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
