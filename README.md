@@ -338,6 +338,25 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing's report card from when he attended Sherborne School in Dorset is to go on display at the Fitzwilliam Musuem in Cambridge.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="40.jpg" alt="Alan Turing" width="317" height="420" />
+<p><strong>Alan Turing's school report when he was 16-years-old.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="41.jpg" alt="Alan Turing" width="317" height="420" />
+<p><strong>This is the copy of the school prize which Turing chose in honour of his 'first love' Christopher Morcom.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="42.jpg" alt="Alan Turing" width="317" height="420" />
+<p><strong>A letter which Alan Turing sent to his mother will also be on show.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="43.jpg" alt="Alan Turing" width="317" height="420" />
+<p><strong>Despite his death being ruled suicide, Turing's mother said it was 'quite probably' his death from cyanide poisoning was a mistake.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
 
 
 
