@@ -264,7 +264,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p>&nbsp;</p>
 
 
-
+<img src="21.jpg" alt="Alan Turing" width="200" height="233" />
+<p><strong>Turing, age 5</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
