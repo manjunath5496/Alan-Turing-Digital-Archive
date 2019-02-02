@@ -330,4 +330,6 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing in a boat just before the Second World War.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="38.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Turing and friends on a Cornish beach, April 1930.</strong>&nbsp;</p>
+<p>&nbsp;</p>
