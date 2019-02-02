@@ -354,7 +354,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Despite his death being ruled suicide, Turing's mother said it was 'quite probably' his death from cyanide poisoning was a mistake.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="44.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Alan Turing, aged 15, at Westcott House, Sherborne School.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
