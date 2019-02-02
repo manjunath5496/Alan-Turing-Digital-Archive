@@ -318,4 +318,6 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Turing in a photo from his days at the Sherborne School.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="35.jpg" alt="Alan Turing" width="154" height="231" />
+<p><strong>Alan Turing as a boy.</strong>&nbsp;</p>
+<p>&nbsp;</p>
