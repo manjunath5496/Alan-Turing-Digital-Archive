@@ -281,7 +281,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Turing reading</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="25.jpg" alt="Alan Turing" width="385" height="256" />
+<p><strong>This is a Turing machine built from Legos. It's a theoretical machine Turing designed for computing in the late 30s.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
