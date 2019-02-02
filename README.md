@@ -306,11 +306,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>In 1931, Turing began his studies at King's College, Cambridge.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="32.jpg" alt="Alan Turing" width="296" height="402" />
+<img src="32.jpg" alt="Alan Turing" width="148" height="201" />
 <p><strong>Alan Turing in his early 20s.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="33.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Turing's statue at Bletchley Park.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
