@@ -306,6 +306,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>In 1931, Turing began his studies at King's College, Cambridge.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="31.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Turing was born on June 23, 1912 in this London building. It's now the Collanade Hotel located near the Warwick Avenue tube station in Little Venice.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
