@@ -491,14 +491,6 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 89. Turing and ACE: Lessons from a 1946 Computer Design</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t89.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
-
-
-
-
-
-
-
-
 </br>
 </br>
 <img src="53.jpg" alt="Alan Turing" width="319" height="250" />
