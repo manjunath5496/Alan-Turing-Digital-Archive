@@ -409,11 +409,20 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 ENGLAND - 1958: English Electric developed several notable pioneering computers during the 1950s. The DEUCE: Digital Electronic Universal Computing Engine, was the first commercially produced digital model and was developed from earlier plans by Alan Turing. 30 were sold and in 1956 one cost ú50,000. The DEUCE took up a huge space compared to modern computers and worked from 1450 thermionic valves which grew hot , blow outs were frequent. However the DEUCE proved a popular innovation and some models were working in to the 1970s. Photograph by Walter Nurnberg who transformed industrial photography after WWII using film studio lighting techniques.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="58.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>A rare manuscript (R) belonging to British mathematician and code breaker Alan Turing (L, depicted on a poster) is displayed in Hong Kong on March 19, 2015. The handwritten notebook from the early 1940s gives an intimate insight into the 'father of the modern computer' and was shown ahead of an auction in New York where it is expected to fetch at least one million USD.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="59.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Alan Turing's notebook sold more than $1m at New York auction
+NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan Turing is seen at Bonham's auction house during an auction in New York, on April 13, 2015. The paper, in which he details his work on the foundations of mathematical notation and computer science, was sold for $1,025,000. Turing's life and work were recently brought to life in the 2014 blockbuster 'The Imitation Game', which drew eight Oscar nominations.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
-
-
-
+<img src="60.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>Alan Turing's notebook sold more than $1m at New York auction
+NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan Turing is seen at Bonham's auction house during an auction in New York, on April 13, 2015. The paper, in which he details his work on the foundations of mathematical notation and computer science, was sold for $1,025,000. Turing's life and work were recently brought to life in the 2014 blockbuster 'The Imitation Game', which drew eight Oscar nominations.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
