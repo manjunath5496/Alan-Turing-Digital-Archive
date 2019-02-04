@@ -410,22 +410,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 
 83.  Alan Turing: Suicide (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t83.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-84.  Alan Turing: Devastated by his friend's death (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-
-</br>
+84.  Alan Turing: Devastated by his friend's death (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 85.  Universal Turing machine: a design for a multi-purpose computer (Video transcript: clip from Order and Disorder, Episode 2, first broadcast on BBC Four on 23 Oct 2012) </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 86. Turing's Test and Believable AI in Games</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-
-
-
-
-
-
-
-
-
 
 </br>
 </br>
