@@ -484,6 +484,23 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 86. Turing's Test and Believable AI in Games</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 
 </br>
+
+87.  Turing, Computing and Communication By Robin Milner</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t87.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+88.  Alan Turing, the Birth of Computing, and the Power of Mathematics By Rod Downey</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t88.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+89. Turing and ACE: Lessons from a 1946 Computer Design</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t89.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+
+
+
+
+
+
+
+
+
+</br>
 </br>
 <img src="53.jpg" alt="Alan Turing" width="319" height="250" />
 <p>&nbsp;</p>
