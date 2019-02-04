@@ -453,8 +453,13 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 <p>&nbsp;</p>
 
 
+<img src="69.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong> Hut 8, WWII workplace of Alan Turing at Bletchley Park.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
-
+<img src="70.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong> Turing, age 18, next to Ben Davis, head of Mathematics at Sherborne School. Image: Sherborne School.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
