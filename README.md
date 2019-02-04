@@ -404,7 +404,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Cassandra Hatton, senior specialist in fine books and manuscripts and director of the history of science from Bonhams auction house, shows a notebook of British mathematician and pioneer in computer science Alan Turing, the World War II code-breaking genius, and an operational 3-rotor German Enigma machine during an auction preview in Hong Kong on Thursday, March 19, 2015.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="56.jpg" alt="Alan Turing" width="319" height="250" />
+<img src="57.jpg" alt="Alan Turing" width="319" height="250" />
 <p><strong>Engineers with the early DEUCE computer at English Electric, 1958.
 ENGLAND - 1958: English Electric developed several notable pioneering computers during the 1950s. The DEUCE: Digital Electronic Universal Computing Engine, was the first commercially produced digital model and was developed from earlier plans by Alan Turing. 30 were sold and in 1956 one cost ú50,000. The DEUCE took up a huge space compared to modern computers and worked from 1450 thermionic valves which grew hot , blow outs were frequent. However the DEUCE proved a popular innovation and some models were working in to the 1970s. Photograph by Walter Nurnberg who transformed industrial photography after WWII using film studio lighting techniques.</strong>&nbsp;</p>
 <p>&nbsp;</p>
