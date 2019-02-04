@@ -347,7 +347,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p>&nbsp;</p>
 
 <img src="42.jpg" alt="Alan Turing" width="317" height="420" />
-<p><strong>A letter which Alan Turing sent to his mother will also be on show.</strong>&nbsp;</p>
+<p><strong>A letter which Alan Turing sent to his mother.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 <img src="43.jpg" alt="Alan Turing" width="317" height="420" />
