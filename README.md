@@ -448,7 +448,7 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 <p>&nbsp;</p>
 
 
-<img src="68.jpg" alt="Alan Turing" width="319" height="250" />
+<img src="68.jpg" alt="Alan Turing" width="151" height="257" />
 <p><strong> On the right is a rare snapshot of Alan Turing in a seminar at Princeton at this period.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
