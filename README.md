@@ -438,6 +438,14 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 <p>&nbsp;</p>
 
 
+<img src="66.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<img src="67.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong> A working Enigma cipher machine that along with the 1942 56-page notebook belonging to codebreaker Alan Turing is to be auctioned Bonham's auction house on April 9, 2015 in New York City. The notebook is to be auctioned in New York on Monday. The notebook alone is expected to go for $1 million. Turing's life and work were recently brought to life in the 2014 blockbuster 'The Imitation Game', which drew eight Oscar nominations</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
