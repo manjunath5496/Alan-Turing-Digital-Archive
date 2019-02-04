@@ -420,12 +420,13 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 
 
 <img src="60.jpg" alt="Alan Turing" width="319" height="250" />
-<p><strong>Alan Turing's notebook sold more than $1m at New York auction
-NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan Turing is seen at Bonham's auction house during an auction in New York, on April 13, 2015. The paper, in which he details his work on the foundations of mathematical notation and computer science, was sold for $1,025,000. Turing's life and work were recently brought to life in the 2014 blockbuster 'The Imitation Game', which drew eight Oscar nominations.</strong>&nbsp;</p>
+<p><strong>Bonham's senior specialist Cassandra Hatton discusses a working Enigma cipher machine that along with the 1942 56-page notebook belonging to codebreaker Alan Turing is to be auctioned Bonham's auction house on April 9, 2015 in New York City. The notebook is to be auctioned in New York on Monday. The notebook alone is expected to go for $1 million. Turing's life and work were recently brought to life in the 2014 blockbuster 'The Imitation Game', which drew eight Oscar nominations.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 
-
+<img src="61.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong> First demonstrated in 1950, this is one of Britain's earliest stored program computers and the oldest complete general purpose electronic computer in Britain. Designed and built at the National Physical Laboratory, Middlesex in 1949-1950, it was based on plans for a larger computer (the ACE) designed by the mathematician Alan Turing (1912-1954) at NPL between 1945 and 1947. Previously Turing worked on the Colossus computer used in codebreaking at Bletchley Park during World War II. Pilot ACE was estimated to have cost £50,000 to design and build, but by 1954 had earned over £240,000 from advanced scientific and engineering work in various fields including crystallography, aeronautics and computing bomb trajectories.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
