@@ -429,7 +429,7 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 <p>&nbsp;</p>
 
 
-<img src="64.jpg" alt="Alan Turing" width="319" height="250" />
+<img src="64.png" alt="Alan Turing" width="319" height="250" />
 <p><strong> Mechanical Wooden Turing Machine.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
