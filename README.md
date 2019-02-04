@@ -453,8 +453,8 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 <p>&nbsp;</p>
 
 
-<img src="69.jpg" alt="Alan Turing" width="319" height="250" />
-<p><strong> Hut 8, WWII workplace of Alan Turing at Bletchley Park.</strong>&nbsp;</p>
+<img src="69.jpg" alt="Alan Turing" width="207" height="289" />
+<p><strong> Alan Turing ca. 1934. Image: King’s College.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 <img src="70.jpg" alt="Alan Turing" width="319" height="250" />
