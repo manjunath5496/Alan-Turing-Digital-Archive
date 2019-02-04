@@ -458,12 +458,16 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 <p>&nbsp;</p>
 
 <img src="70.jpg" alt="Alan Turing" width="319" height="250" />
-<p><strong> Turing, age 18, next to Ben Davis, head of Mathematics at Sherborne School. Image: Sherborne School.</strong>&nbsp;</p>
+<p><strong> Turing, age 18, next to Ben Davis, head of Mathematics at Sherborne School. </strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="71.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong> Conceptualization of the Turing Machine invented by Turing in 1936.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
-
-
+<img src="72.jpg" alt="Alan Turing" width="319" height="250" />
+<p><strong> Alan Turing Centenary Conference.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
