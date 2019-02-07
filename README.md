@@ -437,3 +437,19 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>The DEUCE: Digital Electronic Universal Computing Engine, was the first commercially produced digital model and was developed from earlier plans by Alan Turing.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+
+<img src="030.jpg" alt="Alan Turing" width="400" height="267" />
+<p><strong>  A rare manuscript belonging to British mathematician and code breaker Alan Turing  displayed in Hong Kong on March 19, 2015.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="59.jpg" alt="Alan Turing Digital Archive" width="343" height="437" />
+<p><strong>A page from the notebook of codebreaker Alan Turing seen at Bonham's auction house during an auction in New York, on April 13, 2015. The paper, in which he details his work on the foundations of mathematical notation and computer science..</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<img src="062.jpg" alt="Alan Turing Digital Archive" width="275" height="183" />
+<p><strong>Bonham's senior specialist Cassandra Hatton discusses a working Enigma cipher machine that along with the 1942 56-page notebook belonging to codebreaker Alan Turing.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+ 
