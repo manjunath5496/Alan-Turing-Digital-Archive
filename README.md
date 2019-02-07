@@ -261,6 +261,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing as a boy.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="098.jpg" alt="Alan Turing Digital Archive" width="139" height="199" />
+<p><strong>Alan Turing with his mother Ethel Sara Turing.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 <img src="022.jpg" alt="Alan Turing Digital Archive" width="154" height="244" />
 <p><strong>Alan and his elder brother John.</strong>&nbsp;</p>
 <p>&nbsp;</p>
