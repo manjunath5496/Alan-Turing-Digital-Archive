@@ -513,5 +513,40 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><br /><strong>1954 (7 June):</strong> Death (suicide) by cyanide poisoning, Wilmslow, Cheshire.</p>
 <p>&nbsp;</p>
 
-
+<p>&nbsp;</p>
+<h2>Alan Turing quotes</h2>
+<p>&nbsp;</p>
+<p>"Sometimes it is the people no one can imagine anything of who do the things no one can imagine."<br />―<strong>&nbsp;<span class="authorOrTitle">Alan Turing</span></strong></p>
+<p>&nbsp;</p>
+<p><span class="authorOrTitle">"We can only see a short distance ahead, but we can see plenty there that needs to be done."<br />―<strong>&nbsp;<span class="authorOrTitle">Alan Turing,&nbsp;</span><span id="quote_book_link_17697774"> Computing machinery and intelligence</span></strong></span></p>
+<p>&nbsp;</p>
+<p><span class="authorOrTitle">"I'm afraid that the following syllogism may be used by some in the future.<br /><br />Turing believes machines think<br />Turing lies with men<br />Therefore machines do not think<br /><br />Yours in distress,<br /><br />Alan"</span></p>
+<p><span class="authorOrTitle">&nbsp;<br />―&nbsp;<strong><span class="authorOrTitle">Alan Turing</span></strong></span></p>
+<p>&nbsp;</p>
+<p><span class="authorOrTitle"><span class="authorOrTitle">"I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted."<br />― <strong><span class="authorOrTitle">Alan Turing,&nbsp;</span><span id="quote_book_link_17697774">&nbsp;Computing machinery and intelligence</span></strong></span></span></p>
+<p>&nbsp;</p>
+<p><span class="authorOrTitle"><span class="authorOrTitle">"Those who can imagine anything, can create the impossible."&nbsp;<br />―&nbsp;<strong><span class="authorOrTitle">Alan Turing</span></strong></span></span></p>
+<p>&nbsp;</p>
+<p><span class="authorOrTitle"><span class="authorOrTitle"><span class="authorOrTitle">"Sometimes it is the people who no one imagines anything of who do the things that no one can imagine."</span><strong><span class="authorOrTitle"><br />―&nbsp;<span class="authorOrTitle">Alan Turing</span></span></strong></span></span></p>
+<p>&nbsp;</p>
+<p><span class="authorOrTitle"><span class="authorOrTitle"><span class="authorOrTitle"><span class="authorOrTitle">"If a machine is expected to be infallible, it cannot also be intelligent."&nbsp;<br />―&nbsp;<strong><span class="authorOrTitle">Alan Turing</span></strong></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span class="authorOrTitle"><span class="authorOrTitle"><span class="authorOrTitle"><span class="authorOrTitle">"Finding such a person makes everyone else appear so ordinary&hellip;and if anything happens to him, you've got nothing left but to return to the ordinary world, and a kind of isolation that never existed before."<br />―&nbsp;<strong><span class="authorOrTitle">Alan Turing</span></strong></span></span></span></span></p>
+<p>&nbsp;</p>
+<p><span class="authorOrTitle"><span class="authorOrTitle"><span class="authorOrTitle"><span class="authorOrTitle">"The original question, 'Can machines think?' I believe to be too meaningless to deserve discussion."&nbsp;<br />― <strong>Alan Turing, Mechanical Intelligence: Collected Works of A.M. Turing</strong></span></span></span></span></p>
+<p>&nbsp;</p>
+<p>"A very large part of space-time must be investigated, if reliable results are to be obtained."<br />― <strong>Alan Turing</strong></p>
+<p>&nbsp;</p>
+<p>"Sometimes it is the people no one imagines anything of who do the things that no one can imagine."<br />―<strong> Alan Turing</strong></p>
+<p><br />"Do you know why people like violence? It is because it feels good. Humans find violence deeply satisfying. But remove the satisfaction, and the act becomes hollow."&nbsp;<br />― <strong>Alan Turing</strong></p>
+<p><br />"It is possible to invent a single machine which can be used to compute any computable sequence."<br />― <strong>Alan Turing</strong></p>
+<p>&nbsp;</p>
+<p>"We are not interested in the fact that the brain has the consistency of cold porridge."<br />― <strong>Alan Turing</strong></p>
+<p>&nbsp;</p>
+<p>"It is not possible to produce a set of rules purporting to describe what a man should do in every conceivable set of circumstances."&nbsp;<br />― <strong>Alan Turing, Computing machinery and intelligence</strong></p>
+<p>&nbsp;</p>
+<p>"The works and customs of mankind do not seem to be very suitable material to which to apply scientific induction."&nbsp;<br />― <strong>Alan Turing, Computing machinery and intelligence</strong></p>
+<p>&nbsp;</p>
+<p>"We like to believe that Man is in some subtle way superior to the rest of creation. It is best if he can be shown to be necessarily superior, for then there is no danger of him losing his commanding position."&nbsp;<br />― <strong>Alan Turing, Computing machinery and intelligence</strong></p>
+<p>&nbsp;</p>
 
