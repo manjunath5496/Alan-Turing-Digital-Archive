@@ -219,7 +219,17 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 86. Turing's Test and Believable AI in Games</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+87. What Kind of Turing Test Did Turing Have in Mind? By Jean Lass&#232;gue</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t87.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
+88. Historical Reflections Actually, Turing Did Not Invent the Computer</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t88.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+89. Turing's Theory of Morphogenesis: Where We Started, Where We Are and Where We Want to Go</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t89.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+90. Alan Turing &minus; Einstein of Computer Science </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t90.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
 
 
