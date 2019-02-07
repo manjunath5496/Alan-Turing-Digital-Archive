@@ -267,6 +267,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing with school friends, Robin and John Wainwright and Hugh Highet.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="34.png" alt="Alan Turing Digital Archive" width="318" height="250" />
+<p><strong>Turing in a photo from his days at the Sherborne School. </strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img src="32.jpg" alt="Alan Turing Digital Archive" width="148" height="201" />
 <p><strong>Alan Turing in his early 20s.</strong>&nbsp;</p>
 <p>&nbsp;</p>
