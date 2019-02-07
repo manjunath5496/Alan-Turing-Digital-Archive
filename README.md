@@ -527,7 +527,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Letter from Alan Turing to W Ross Ashby.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="093.jpg" alt="Alan Turing Digital Archive" width="320" height="240" />
+<img src="093.JPG" alt="Alan Turing Digital Archive" width="320" height="240" />
 <p><strong>Alan Turing at the Science Museum.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
