@@ -271,6 +271,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Turing in a photo from his days at the Sherborne School. </strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="44.1.jpg" alt="Alan Turing Digital Archive" width="248" height="140" />
+<p><strong>Alan Turing, aged 15, at Westcott House, Sherborne School. </strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 <img src="32.jpg" alt="Alan Turing Digital Archive" width="148" height="201" />
 <p><strong>Alan Turing in his early 20s.</strong>&nbsp;</p>
 <p>&nbsp;</p>
