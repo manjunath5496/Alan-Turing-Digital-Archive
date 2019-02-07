@@ -422,4 +422,18 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>U-BOATS: Breaking the Enigma code allowed Brit ships to evade German U-boats.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="54.jpg" alt="Alan Turing Digital Archive" width="225" height="294" />
+<p><strong>A page from the notebook of British mathematician and pioneer in computer science Alan Turing, displayed in front of his portrait during an auction preview in Hong Kong.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<img src="55.jpg" alt="Alan Turing Digital Archive" width="225" height="147" />
+<p><strong>Cassandra Hatton, senior specialist in fine books and manuscripts and director of the history of science from Bonhams auction house, shows a notebook of British mathematician and pioneer in computer science Alan Turing, during an auction preview in Hong Kong.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<img src="57.jpg" alt="Alan Turing Digital Archive" width="255" height="256" />
+<p><strong>The DEUCE: Digital Electronic Universal Computing Engine, was the first commercially produced digital model and was developed from earlier plans by Alan Turing.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
