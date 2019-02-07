@@ -403,3 +403,23 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="23.jpg" alt="Alan Turing" width="385" height="288" />
 <p><strong>During World War II, Bletchley Park housed the UK's code breaking efforts against the Axis powers. Turing worked here.</strong>&nbsp;</p>
 <p>&nbsp;</p>
+
+<img src="45.jpg" alt="Alan Turing Digital Archive" width="248" height="139" />
+<p><strong>Turing was recruited to the National Physical Laboratory in 1945.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<img src="49.jpg" alt="Alan Turing Digital Archive" width="310" height="206" />
+<p><strong>Alan Turing's codebreakers decoding of the Enigma Machine helped win World War II.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="50.jpg" alt="Alan Turing Digital Archive" width="310" height="206" />
+<p><strong>ALAN TURING: Bletchley Park will reopen as the National College of Cyber Security.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="51.jpg" alt="Alan Turing Digital Archive" width="310" height="206" />
+<p><strong>U-BOATS: Breaking the Enigma code allowed Brit ships to evade German U-boats.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
