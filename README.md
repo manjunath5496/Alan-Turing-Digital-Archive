@@ -476,6 +476,4 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
-<img src="076.jpg" alt="Alan Turing Digital Archive " width="300" height="225" />
-<p><strong> Alan Turing Centenary Conference.</strong>&nbsp;</p>
-<p>&nbsp;</p>
+
