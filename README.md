@@ -335,23 +335,30 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing in a garden in Dene Road, Guildford in 1928.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="48.jpg" alt="Alan Turing" width="300" height="178" />
+<img src="48.jpg" alt="Alan Turing Digital Archive" width="300" height="178" />
 <p><strong>Ratio Club at Cambridge 1952, Giles Brindley (yellow), Donald MacKay (red), Alan Turing (green).</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="14.jpg" alt="Alan Turing" width="400" height="162" />
+<img src="14.jpg" alt="Alan Turing Digital Archive" width="400" height="162" />
 <p><strong>Alan Turing (right) stands next to the Ferranti Mark I. </strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 
-<img src="71.jpg" alt="Alan Turing" width="226" height="133" />
+<img src="71.jpg" alt="Alan Turing Digital Archive" width="226" height="133" />
 <p><strong> Conceptualization of the Turing Machine invented by Turing in 1936.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="64.png" alt="Alan Turing" width="323" height="181" />
+<img src="64.png" alt="Alan Turing Digital Archive" width="323" height="181" />
 <p><strong> Mechanical Wooden Turing Machine.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="42.jpg" alt="Alan Turing Digital Archive" width="317" height="420" />
+<p><strong>A letter which Alan Turing sent to his mother.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="43.jpg" alt="Alan Turing Digital Archive" width="317" height="420" />
+<p><strong>Despite his death being ruled suicide, Turing's mother said it was 'quite probably' his death from cyanide poisoning was a mistake.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
