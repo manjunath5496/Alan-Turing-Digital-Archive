@@ -301,7 +301,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p>&nbsp;</p>
 
 <img src="24.jpg" alt="Alan Turing Digital Archive" width="218" height="275" />
-<p><strong>Turing reading</strong>&nbsp;</p>
+<p><strong>Turing reading.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 
