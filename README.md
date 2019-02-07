@@ -475,5 +475,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>&nbsp;</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="076.jpg" alt="Alan Turing Digital Archive" width="220" height="180" />
+<p><strong>Alan Turing Stamp</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
