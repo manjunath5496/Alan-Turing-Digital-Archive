@@ -237,15 +237,25 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 92. After 1952: The later development of Alan Turing's ideas on the mathematics of pattern formation</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t92.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
-
-
-
-
-
-
-
-
 <p>&nbsp;</p>
+
+<img src="021.png" alt="Alan Turing" width="160" height="132" />
+<p>&nbsp;</p>
+
+<img src="21.jpg" alt="Alan Turing" width="200" height="233" />
+<p><strong>Turing, age 5</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="13.jpg" alt="Alan Turing" width="400" height="264" />
 <p><strong>Statue of Alan Turing made of layers of stacked slate, shown from the chest up</strong>&nbsp;</p>
@@ -297,9 +307,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p>&nbsp;</p>
 
 
-<img src="21.jpg" alt="Alan Turing" width="200" height="233" />
-<p><strong>Turing, age 5</strong>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 
 <img src="22.jpg" alt="Alan Turing" width="200" height="245" />
