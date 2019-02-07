@@ -460,6 +460,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>The Queen visits Bletchley Park and studies an Enigma machine. She grants Turing a royal pardon on 23 December 2013.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="071.jpg" alt="Alan Turing Digital Archive" width="416" height="480" />
+<p><strong>Alan Turing's Royal Pardon (UK Government).</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
