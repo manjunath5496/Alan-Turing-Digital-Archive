@@ -327,8 +327,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing in a boat just before the Second World War.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
-
+<img src="026.jpg" alt="Alan Turing Digital Archive" width="342" height="228" />
+<p><strong>Alan Turing (far left) on a bus.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
