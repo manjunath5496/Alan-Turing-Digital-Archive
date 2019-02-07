@@ -522,7 +522,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing's letter to Christopher Morcom's mother. Christopher was Alan's first love, and he died very young.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="090.jpg" alt="Alan Turing Digital Archive" width="408" height="500" />
+<img src="090.jpg" alt="Alan Turing Digital Archive" width="408" height="500" /></br>
+<img src="091.jpg" alt="Alan Turing Digital Archive" width="408" height="500" />
 <p><strong>Letter from Alan Turing to W Ross Ashby.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
