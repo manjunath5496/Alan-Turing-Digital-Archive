@@ -388,7 +388,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 
 
-<img src="33.jpg" alt="Alan Turing Digital Archive" width="346" height="250" />
-<p><strong>Turing's statue at Bletchley Park.</strong>&nbsp;</p>
+<img src="13.jpg" alt="Alan Turing Digital Archive" width="346" height="250" />
+<p><strong>Turing's statue at Bletchley Park (made of layers of stacked slate, shown from the chest up).</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
