@@ -312,4 +312,6 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing in 1934.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="47.jpg" alt="Alan Turing" width="342" height="192" />
+<p><strong>The young Alan Turing in more innocent times.</strong>&nbsp;</p>
+<p>&nbsp;</p>
