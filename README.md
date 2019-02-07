@@ -308,5 +308,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Turing (right) and Mermagen in their last year at Sherborne.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="025.jpg" alt="Alan Turing Digital Archive" width="240" height="362" />
+<p><strong>Alan Turing in 1934.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
