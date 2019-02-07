@@ -304,7 +304,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Turing reading.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="024.jpg" alt="Alan Turing Digital Archive" width="236" height="350" />
+<p><strong>Turing (right) and Mermagen in their last year at Sherborne.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
