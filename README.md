@@ -396,4 +396,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p> Bombe machine, a code-breaking machine, originally developed by Alan Turing and others, used during World War II.</p>
 <p>&nbsp;</p>
 
+<img src="17.jpg" alt="Alan Turing Digital Archive " width="220" height="165" />
+<p><strong>Turing memorial statue plaque in Sackville Park, Manchester.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
+<img src="23.jpg" alt="Alan Turing" width="385" height="288" />
+<p><strong>During World War II, Bletchley Park housed the UK's code breaking efforts against the Axis powers. Turing worked here.</strong>&nbsp;</p>
+<p>&nbsp;</p>
