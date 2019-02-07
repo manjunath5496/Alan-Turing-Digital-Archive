@@ -490,7 +490,6 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
-
 <img src="66.jpg" alt="Alan Turing Digital Archive" width="180" height="240" />
 <p><strong>&nbsp;</strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -503,7 +502,6 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing Letter Reveal Turmoil Over Sexuality, 'Gay Cure' Hormone Therapy</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
 <img src="078.jpg" alt="Alan Turing Digital Archive" width="300" height="157" />
 <p><strong>&nbsp;</strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -512,7 +510,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Letter Alan Turing wrote to Maria Greenbaum in July 1953 with his advice for playing Solitaire.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="084.jpg" alt="Alan Turing Digital Archive" width="317" height="406" />
+<p><strong>The detailed letter provided an explanation of how to avoid having pieces scattered around the board, including a series of moves to help crack the puzzle.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
+<img src="085.jpg" alt="Alan Turing Digital Archive" width="317" height="406" />
+<p><strong>He used diagrams to help explain to his niece how she might succeed with the puzzle.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
@@ -537,13 +541,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><br /><strong>1953-54:</strong> Unfinished work in biology and physics</p>
 <p><br /><strong>1954 (7 June):</strong> Death (suicide) by cyanide poisoning, Wilmslow, Cheshire.</p>
 <p>&nbsp;</p>
-
 <img src="086.jpg" alt="Alan Turing Digital Archive" width="425" height="157" />
-
-<p>&nbsp;</p>
-
-
-
 <p>&nbsp;</p>
 <h2>Alan Turing quotes</h2>
 <p>&nbsp;</p>
