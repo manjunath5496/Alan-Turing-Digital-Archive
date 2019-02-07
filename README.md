@@ -2,7 +2,7 @@
 <h1>Alan Turing</h1>
 <div class="topic-identifier">BRITISH MATHEMATICIAN AND LOGICIAN</div>
 <p>&nbsp;</p>
-<img src="12.jpg" alt="Alan Turing" width="512" height="256" />
+<img src="12.jpg" alt="Alan Turing Digital Archive" width="512" height="256" />
 <p><strong>Born:</strong>&nbsp;</p>
 <p>&nbsp;23 June 1912<br />Maida Vale, London, England</p>
 <p><br /><strong>Died</strong>&nbsp;:</p>
@@ -35,7 +35,7 @@
 <p>&nbsp;Max Newman</p>
 <p>&nbsp;</p>
 <p><strong>Signature:</strong></p>
-<p><img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></p>
+<p><img src="1.png" alt="Alan Turing Digital Archive" width="150" height="30" data-file-width="585" data-file-height="118" /></p>
 <p>&nbsp;</p>
 
 
@@ -537,6 +537,12 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><br /><strong>1953-54:</strong> Unfinished work in biology and physics</p>
 <p><br /><strong>1954 (7 June):</strong> Death (suicide) by cyanide poisoning, Wilmslow, Cheshire.</p>
 <p>&nbsp;</p>
+
+<img src="086.jpg" alt="Alan Turing Digital Archive" width="425" height="157" />
+
+<p>&nbsp;</p>
+
+
 
 <p>&nbsp;</p>
 <h2>Alan Turing quotes</h2>
