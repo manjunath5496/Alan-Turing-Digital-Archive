@@ -331,7 +331,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing (far left) on a bus.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="027.png" alt="Alan Turing Digital Archive" width="240" height="368" />
+<p><strong>Alan Turing in a garden in Dene Road, Guildford in 1928.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
