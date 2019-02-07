@@ -522,6 +522,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing's letter to Christopher Morcom's mother. Christopher was Alan's first love, and he died very young.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="090.jpg" alt="Alan Turing Digital Archive" width="408" height="500" />
+<p><strong>Letter from Alan Turing to W Ross Ashby.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
 <p><br /><strong>1912 (23 June):</strong> Birth, Paddington, London</p>
 <p><br /><strong>1926-31:</strong> Sherborne School</p>
