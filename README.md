@@ -38,12 +38,6 @@
 <p><img src="1.png" alt="Alan Turing signature" width="150" height="30" data-file-width="585" data-file-height="118" /></p>
 <p>&nbsp;</p>
 
-<img src="2.png" alt="Alan Turing" width="480" height="300" />
-<p><strong>Alan Turing with school friends, Robin and John Wainwright and Hugh Highet</strong>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-
 
 <p><strong>Further reading </strong></p>
 
@@ -212,6 +206,28 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 
 80. Undecidable problems</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t80.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+81. Alan Turing: Designs first computer (Video transcript: Clip from Horizon: The Strange Life and Death of Alan Turing, produced by Christopher Sykes Productions) </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t81.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+82.  Alan Turing: Convicted for gross indecency (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t82.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+83.  Alan Turing: Suicide (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t83.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+84.  Alan Turing: Devastated by his friend's death (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+85.  Universal Turing machine: a design for a multi-purpose computer (Video transcript: clip from Order and Disorder, Episode 2, first broadcast on BBC Four on 23 Oct 2012) </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+86. Turing's Test and Believable AI in Games</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -224,6 +240,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <img src="16.png" alt="Alan Turing" width="593" height="611" />
 <p>&nbsp;</p>
 
+<img src="2.png" alt="Alan Turing" width="480" height="300" />
+<p><strong>Alan Turing with school friends, Robin and John Wainwright and Hugh Highet</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... in music by the Pet Shop Boys, 23 July 2014.</p>
@@ -471,18 +490,7 @@ NEW YORK, UNITED STATES - APRIL 13: A page from the notebook of codebreaker Alan
 
 
 
-81. Alan Turing: Designs first computer (Video transcript: Clip from Horizon: The Strange Life and Death of Alan Turing, produced by Christopher Sykes Productions) </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t81.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-82.  Alan Turing: Convicted for gross indecency (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t82.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-83.  Alan Turing: Suicide (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t83.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-84.  Alan Turing: Devastated by his friend's death (Video transcript: Clip from Horizon: The Strange Life and Death of Dr Turing – produced by Christopher Sykes Productions)</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-85.  Universal Turing machine: a design for a multi-purpose computer (Video transcript: clip from Order and Disorder, Episode 2, first broadcast on BBC Four on 23 Oct 2012) </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-
-86. Turing's Test and Believable AI in Games</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-</br>
 
 <img src="90.jpg" alt="Alan Turing" width="319" height="250" />
 
