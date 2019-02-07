@@ -243,7 +243,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 94. Turing's Test and conscious thought</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t94.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
-95. Sara Turing: Alan M. Turing, Cambridge University Press, 2012,</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t95.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+95. Sara Turing: Alan M. Turing, Cambridge University Press, 2012</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t95.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
 
