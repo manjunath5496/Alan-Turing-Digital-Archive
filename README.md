@@ -323,6 +323,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong> On the right is a rare snapshot of Alan Turing in a seminar at Princeton at this period.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="37.jpg" alt="Alan Turing Digital Archive" width="307" height="205" />
+<p><strong>Alan Turing in a boat just before the Second World War.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
