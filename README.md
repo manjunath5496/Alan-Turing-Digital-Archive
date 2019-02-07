@@ -335,6 +335,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing in a garden in Dene Road, Guildford in 1928.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="48.jpg" alt="Alan Turing" width="300" height="178" />
+<p><strong>Ratio Club at Cambridge 1952, Giles Brindley (yellow), Donald MacKay (red), Alan Turing (green).</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="14.jpg" alt="Alan Turing" width="400" height="162" />
+<p><strong>Alan Turing (right) stands next to the Ferranti Mark I. </strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
