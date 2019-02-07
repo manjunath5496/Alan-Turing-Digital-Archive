@@ -455,3 +455,12 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
  <img src="061.jpg" alt="Alan Turing Digital Archive" width="350" height="239" />
 <p><strong>Britain's earliest stored program computers designed by the mathematician Alan Turing (1912&minus;1954) at NPL between 1945 and 1947.</strong>&nbsp;</p>
 <p>&nbsp;</p>
+
+<img src="46.jpg" alt="Alan Turing Digital Archive" width="248" height="139" />
+<p><strong>The Queen visits Bletchley Park and studies an Enigma machine. She grants Turing a royal pardon on 23 December 2013.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
