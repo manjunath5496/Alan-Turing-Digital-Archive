@@ -378,17 +378,17 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
-<img src="29.jpg" alt="Alan Turing" width="346" height="250" />
+<img src="29.jpg" alt="Alan Turing Digital Archive" width="346" height="250" />
 <p><strong>Hut 8 at Bletchley Park is the building Turing worked in during the early years of World War II. Turing was instrumental in breaking the German naval Enigma code.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="30.jpg" alt="Alan Turing" width="346" height="250" />
+<img src="30.jpg" alt="Alan Turing Digital Archive" width="346" height="250" />
 <p><strong>In 1931, Turing began his studies at King's College, Cambridge.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 
 
-<img src="33.jpg" alt="Alan Turing" width="346" height="250" />
+<img src="33.jpg" alt="Alan Turing Digital Archive" width="346" height="250" />
 <p><strong>Turing's statue at Bletchley Park.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
