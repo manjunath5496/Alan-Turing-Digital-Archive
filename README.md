@@ -387,8 +387,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
-
 <img src="13.jpg" alt="Alan Turing Digital Archive" width="346" height="250" />
 <p><strong>Turing's statue at Bletchley Park (made of layers of stacked slate, shown from the chest up).</strong>&nbsp;</p>
 <p>&nbsp;</p>
+
+<img src="15.jpg" alt="Alan Turing Digital Archive" width="150" height="225" />
+<p><strong>Bombe machine</strong>&nbsp;</p>
+<p> Bombe machine, a code-breaking machine, originally developed by Alan Turing and others, used during World War II.</p>
+<p>&nbsp;</p>
+
 
