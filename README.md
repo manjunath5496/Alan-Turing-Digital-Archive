@@ -275,6 +275,18 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing, aged 15, at Westcott House, Sherborne School. </strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="39.jpg" alt="Alan Turing" width="153" height="207" />
+<p><strong>Alan Turing's report card from when he attended Sherborne School in Dorset is to go on display at the Fitzwilliam Musuem in Cambridge.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="40.jpg" alt="Alan Turing" width="317" height="420" />
+<p><strong>Alan Turing's school report when he was 16-years-old.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="41.jpg" alt="Alan Turing" width="317" height="420" />
+<p><strong>This is the copy of the school prize which Turing chose in honour of his 'first love' Christopher Morcom.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img src="70.jpg" alt="Alan Turing Digital Archive" width="227" height="248" />
 <p><strong>Turing, age 18, next to Ben Davis, head of Mathematics at Sherborne School.  </strong>&nbsp;</p>
 <p>&nbsp;</p>
