@@ -246,6 +246,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Turing, age 5.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="35.jpg" alt="Alan Turing Digital Archive" width="154" height="231" />
+<p><strong>Alan Turing as a boy.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img src="38.jpg" alt="Alan Turing Digital Archive" width="300" height="205" />
 <p><strong>Turing and friends on a Cornish beach, April 1930.</strong>&nbsp;</p>
 <p>&nbsp;</p>
