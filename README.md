@@ -497,6 +497,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>&nbsp;</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="082.jpg" alt="Alan Turing Digital Archive" width="248" height="173" />
+<p><strong>Alan Turing aged 19, bathing on the island of Sark</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
