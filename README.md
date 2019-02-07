@@ -344,5 +344,14 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
+<img src="71.jpg" alt="Alan Turing" width="226" height="133" />
+<p><strong> Conceptualization of the Turing Machine invented by Turing in 1936.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="64.png" alt="Alan Turing" width="323" height="181" />
+<p><strong> Mechanical Wooden Turing Machine.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 
 
