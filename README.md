@@ -452,4 +452,6 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Bonham's senior specialist Cassandra Hatton discusses a working Enigma cipher machine that along with the 1942 56-page notebook belonging to codebreaker Alan Turing.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
- 
+ <img src="061.jpg" alt="Alan Turing Digital Archive" width="350" height="239" />
+<p><strong>Britain's earliest stored program computers designed by the mathematician Alan Turing (1912&minus;1954) at NPL between 1945 and 1947.</strong>&nbsp;</p>
+<p>&nbsp;</p>
