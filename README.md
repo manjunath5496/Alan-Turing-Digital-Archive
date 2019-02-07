@@ -254,7 +254,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing, second from right, with (L-R) Hogg, Geoffrey OHanlon (housemaster) and White.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="2.jpg" alt="Alan Turing Digital Archive" width="240" height="150" />
+<img src="2.png" alt="Alan Turing Digital Archive" width="240" height="150" />
 <p><strong>Alan Turing with school friends, Robin and John Wainwright and Hugh Highet.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
