@@ -231,7 +231,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 90. Alan Turing &minus; Einstein of Computer Science </br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t90.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+91. Educating a Mathematical Genius: Alan Turing at Sherborne Shool</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t91.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
+92. After 1952: The later development of Alan Turing's ideas on the mathematics of pattern formation</br> <a href="https://github.com/manjunath5496/The-Turing-Digital-Archive/blob/master/t92.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
 
 
