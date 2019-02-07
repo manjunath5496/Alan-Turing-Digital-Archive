@@ -427,6 +427,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing's codebreakers decoding of the Enigma Machine helped win World War II.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+
+<img src="081.jpg" alt="Alan Turing Digital Archive" width="384" height="288" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
 <img src="50.jpg" alt="Alan Turing Digital Archive" width="310" height="206" />
 <p><strong>ALAN TURING: Bletchley Park will reopen as the National College of Cyber Security.</strong>&nbsp;</p>
 <p>&nbsp;</p>
