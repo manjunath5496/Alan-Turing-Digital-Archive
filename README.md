@@ -284,5 +284,12 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing in his early 20s.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="56.jpg" alt="Alan Turing Digital Archive" width="400" height="266" />
+<p><strong>Turing running. </strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
 
 
