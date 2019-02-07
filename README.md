@@ -352,6 +352,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong> Mechanical Wooden Turing Machine.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="25.jpg" alt="Alan Turing Digital Archive" width="385" height="256" />
+<p><strong>This is a Turing machine built from Legos. It's a theoretical machine Turing designed for computing in the late 30s.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img src="42.jpg" alt="Alan Turing Digital Archive" width="317" height="420" />
 <p><strong>A letter which Alan Turing sent to his mother.</strong>&nbsp;</p>
 <p>&nbsp;</p>
