@@ -291,6 +291,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Turing, age 18, next to Ben Davis, head of Mathematics at Sherborne School.  </strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="22.jpg" alt="Alan Turing" width="200" height="245" />
+<p><strong>Young Alan Turing</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img src="32.jpg" alt="Alan Turing Digital Archive" width="148" height="201" />
 <p><strong>Alan Turing in his early 20s.</strong>&nbsp;</p>
