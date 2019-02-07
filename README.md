@@ -243,14 +243,16 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p>&nbsp;</p>
 
 <img src="21.jpg" alt="Alan Turing Digital Archive" width="200" height="233" />
-<p><strong>Turing, age 5</strong>&nbsp;</p>
+<p><strong>Turing, age 5.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 <img src="38.jpg" alt="Alan Turing Digital Archive" width="300" height="205" />
 <p><strong>Turing and friends on a Cornish beach, April 1930.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="36.jpg" alt="Alan Turing Digital Archive" width="308" height="205" />
+<p><strong>Alan Turing, second from right, with (L-R) Hogg, Geoffrey OHanlon (housemaster) and White.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
