@@ -365,4 +365,30 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
+<img src="26.jpg" alt="Alan Turing Digital Archive" width="235" height="288" />
+<p><strong>Alan Turing memorial &minus; Manchester</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="27.jpg" alt="Alan Turing Digital Archive" width="346" height="250" />
+<p><strong>Turing lived the last years of his life at this home in Wilmslow, Cheshire near Manchester. He took his own life at this house on June 7, 1954.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="28.jpg" alt="Alan Turing Digital Archive" width="346" height="250" />
+<p><strong>Turing led the Naval Enigma codebreaking efforts from this office in Hut 8. The building at Bletchley Park has been fully restored.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<img src="29.jpg" alt="Alan Turing" width="346" height="250" />
+<p><strong>Hut 8 at Bletchley Park is the building Turing worked in during the early years of World War II. Turing was instrumental in breaking the German naval Enigma code.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="30.jpg" alt="Alan Turing" width="346" height="250" />
+<p><strong>In 1931, Turing began his studies at King's College, Cambridge.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<img src="33.jpg" alt="Alan Turing" width="346" height="250" />
+<p><strong>Turing's statue at Bletchley Park.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
