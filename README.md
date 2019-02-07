@@ -275,6 +275,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/The-Turing-Digita
 <p><strong>Alan Turing, aged 15, at Westcott House, Sherborne School. </strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="70.jpg" alt="Alan Turing Digital Archive" width="227" height="248" />
+<p><strong>Turing, age 18, next to Ben Davis, head of Mathematics at Sherborne School.  </strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 <img src="32.jpg" alt="Alan Turing Digital Archive" width="148" height="201" />
 <p><strong>Alan Turing in his early 20s.</strong>&nbsp;</p>
