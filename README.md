@@ -304,6 +304,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Young Alan Turing.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="082.jpg" alt="Alan Turing Digital Archive" width="248" height="173" />
+<p><strong>Alan Turing aged 19, bathing on the island of Sark</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img src="32.jpg" alt="Alan Turing Digital Archive" width="148" height="201" />
 <p><strong>Alan Turing in his early 20s.</strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -497,8 +501,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>&nbsp;</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="082.jpg" alt="Alan Turing Digital Archive" width="248" height="173" />
-<p><strong>Alan Turing aged 19, bathing on the island of Sark</strong>&nbsp;</p>
+<img src="080.jpg" alt="Alan Turing Digital Archive" width="318" height="191" />
+<p><strong>Letter Alan Turing wrote to Maria Greenbaum in July 1953 with his advice for playing Solitaire.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 
