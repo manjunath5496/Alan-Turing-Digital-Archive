@@ -356,7 +356,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>A letter which Alan Turing sent to his mother.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="43.jpg" alt="Alan Turing Digital Archive" width="317" height="420" />
+<img src="43.jpg" alt="Alan Turing Digital Archive" width="317" height="218" />
 <p><strong>Despite his death being ruled suicide, Turing's mother said it was 'quite probably' his death from cyanide poisoning was a mistake.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
