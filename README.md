@@ -482,3 +482,14 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="077.jpg" alt="Alan Turing Digital Archive" width="370" height="234" />
 <p><strong>Alan Turing Letter Reveal Turmoil Over Sexuality, 'Gay Cure' Hormone Therapy</strong>&nbsp;</p>
 <p>&nbsp;</p>
+
+
+<img src="078.jpg" alt="Alan Turing Digital Archive" width="300" height="157" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+
