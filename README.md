@@ -643,7 +643,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
-<img src="0113.jpg" alt="Alan Turing Digital Archive" width="288" height="438" />
+<img src="0113.gif" alt="Alan Turing Digital Archive" width="288" height="438" />
 <p><strong>Alan Turing Scrapbook.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
