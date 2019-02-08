@@ -657,6 +657,30 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>This is a photograph of the official record of the charges, pleas, and sentences passed on Alan Turing and Arnold Murray in respect of their crimes, 31 March 1952.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="0117.jpg" alt="Alan Turing Digital Archive" width="311" height="301" />
+<p><strong>A sample of the handwriting of Alan Turing.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="0118.png" alt="Alan Turing Digital Archive" width="430" height="186" />
+<p><strong>Alan Turing Letter to Dr. N. A. Routledge.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="0119.jpg" alt="Alan Turing Digital Archive" width="366" height="206" />
+<img src="0120.jpg" alt="Alan Turing Digital Archive" width="400" height="340" />
+<img src="0121.jpg" alt="Alan Turing Digital Archive" width="256" height="192" />
+<p><strong>Alan Turing's Code-Breaking Papers Discovered In Roof Holes At Bletchley Park.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<img src="0122.jpg" alt="Alan Turing Digital Archive" width="371" height="134" />
+<p><strong>One of Alan Turing's journals, written while he was hacking away on the German Enigma Code.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<img src="0123.jpg" alt="Alan Turing Digital Archive" width="400" height="343" />
+<p><strong>The unpublished work by the late Alan Turing (1912&minus;1954). It includes many topics (how to play Go, eliptic functions...) and drawings and calculations related to his theory of morphogenesis.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 
 
