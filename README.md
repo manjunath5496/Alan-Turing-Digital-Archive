@@ -264,7 +264,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 101. Cryptography and Computation after Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t101.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
-
+102. Number Theory II By Tom Leighton and Ronitt Rubinfeld</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t102.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
 
 
