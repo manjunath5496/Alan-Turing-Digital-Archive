@@ -341,8 +341,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing, aged 15, at Westcott House, Sherborne School. </strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="39.jpg" alt="Alan Turing" width="153" height="207" />
-<p><strong>Alan Turing's report card from when he attended Sherborne School in Dorset is to go on display at the Fitzwilliam Musuem in Cambridge.</strong>&nbsp;</p>
+<img src="0001.jpg" alt="Alan Turing" width="233" height="187" />
+<p><strong> Sherborne School.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 <img src="40.jpg" alt="Alan Turing" width="317" height="420" />
@@ -396,6 +396,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <img src="68.jpg" alt="Alan Turing Digital Archive" width="151" height="257" />
 <p><strong> On the right is a rare snapshot of Alan Turing in a seminar at Princeton at this period.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="0002.jpg" alt="Alan Turing Digital Archive" width="320" height="180" />
+<p><strong> Princeton University.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 <img src="37.jpg" alt="Alan Turing Digital Archive" width="307" height="205" />
