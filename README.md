@@ -279,7 +279,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 106. A Man of Machines</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t106.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
-107. Turing. A Staged Case History</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t107.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+107. Turing. A Staged Case History</br> <a href="https://drive.google.com/file/d/1JYqNgS47fVlnlrYTlRsPl2yXwKxM0jPA/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
 
@@ -291,11 +291,6 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 110. Pushing Back the Incomputable &minus; Alan Turing's Ten Big Ideas</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t110.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
-
-
-
-
-
 
 
 <p>&nbsp;</p>
