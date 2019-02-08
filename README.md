@@ -619,9 +619,12 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 <img src="0109.jpg" alt="Alan Turing Digital Archive" width="281" height="200" />
-<p><strong>A unique collection of letters and correspondence from the late Alan Turing found in an old filing cabinet in a storeroom at the University of Manchester.</strong>&nbsp;</p>
+<p><strong>A unique collection of letters and correspondence from Alan Turing found in an old filing cabinet in a storeroom at the University of Manchester.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="0110.jpg" alt="Alan Turing Digital Archive" width="340" height="191" />
+<p><strong>Alan Turing autograph.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
