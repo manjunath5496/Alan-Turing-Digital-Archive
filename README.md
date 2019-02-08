@@ -292,6 +292,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 110. Pushing Back the Incomputable &minus; Alan Turing's Ten Big Ideas</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t110.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+111. Life in Code and Digits: When Shannon met Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t111.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
 <p>&nbsp;</p>
 
@@ -460,6 +462,18 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
+<img src="01117.jpg" alt="Alan Turing Digital Archive" width="319" height="225" />
+<p><strong>Two cottages in the stable yard at Bletchley Park. Turing worked here in 1939 and 1940, before moving to Hut 8.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="01118.jpg" alt="Alan Turing Digital Archive" width="219" height="225" />
+<p><strong>Alan Turing's OBE currently held in Sherborne School archives.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="01115.jpg" alt="Alan Turing Digital Archive" width="300" height="400" />
+<p><strong>Photograph of Alan Turing statue at University of Surrey.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img src="13.jpg" alt="Alan Turing Digital Archive" width="346" height="250" />
 <p><strong>Turing's statue at Bletchley Park (made of layers of stacked slate, shown from the chest up).</strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -528,7 +542,6 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
-
 <img src="062.jpg" alt="Alan Turing Digital Archive" width="275" height="183" />
 <p><strong>Bonham's senior specialist Cassandra Hatton discusses a working Enigma cipher machine that along with the 1942 56-page notebook belonging to codebreaker Alan Turing.</strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -537,8 +550,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>A working Enigma cipher machine.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="01116.jpg" alt="Alan Turing Digital Archive" width="300" height="219" />
+<p><strong>A rebuild of a machine made by Alan Turing.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
- <img src="061.jpg" alt="Alan Turing Digital Archive" width="350" height="239" />
+<img src="061.jpg" alt="Alan Turing Digital Archive" width="350" height="239" />
 <p><strong>Britain's earliest stored program computers designed by the mathematician Alan Turing (1912&minus;1954) at NPL between 1945 and 1947.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -681,7 +697,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>The unpublished work by the late Alan Turing (1912&minus;1954). It includes many topics (how to play Go, eliptic functions...) and drawings and calculations related to his theory of morphogenesis.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="01119.jpg" alt="Alan Turing Digital Archive" width="225" height="150" />
+<p><strong>The Alan Turing Building at the University of Manchester.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
+<img src="01120.jpg" alt="Alan Turing Digital Archive" width="300" height="225" />
+<p><strong>The London 2012 Olympic Torch flame was passed on in front of Turing's statue in Manchester on his 100th birthday.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
