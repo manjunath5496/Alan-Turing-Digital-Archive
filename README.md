@@ -509,6 +509,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Turing memorial statue plaque in Sackville Park, Manchester.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="00001.jpg" alt="Alan Turing Digital Archive " width="270" height="179" />
+<p><strong>Welsh codebreaker Mair Russell-Jones recognised Alan Turing's genius at an early age at Bletchley Park.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img src="23.jpg" alt="Alan Turing" width="385" height="288" />
 <p><strong>During World War II, Bletchley Park housed the UK's code breaking efforts against the Axis powers. Turing worked here.</strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -711,6 +715,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing's Code-Breaking Papers Discovered In Roof Holes At Bletchley Park.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="00005.jpg" alt="Alan Turing Digital Archive " width="259" height="132" />
+<p><strong>A sample of Turing's typing.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img src="0122.jpg" alt="Alan Turing Digital Archive" width="371" height="134" />
 <p><strong>One of Alan Turing's journals, written while he was hacking away on the German Enigma Code.</strong>&nbsp;</p>
