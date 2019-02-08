@@ -267,6 +267,33 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 102. Number Theory II By Tom Leighton and Ronitt Rubinfeld</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t102.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+103. Historical Reflections Colossal Genius: Tutte, Flowers, and a Bad Imitation of Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t103.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+104. Turing and the Enigma Cipher</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t104.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+105. Turing's Ideas and Models of Computation</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t105.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+106. A Man of Machines</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t106.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+107. Turing. A Staged Case History</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t107.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+
+108. Bletchley's Secret War: British Code Breaking in the Battle of the Atlantic </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t108.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+109. The Turing Test as Interactive Proof </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t109.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+110. Pushing Back the Incomputable &minus; Alan Turing's Ten Big Ideas</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t110.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+
+
 
 
 
