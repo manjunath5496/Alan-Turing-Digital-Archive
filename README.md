@@ -758,9 +758,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing Letter to B H Wood, editor of Chess magazine.</strong>&nbsp;</p>
 
 
+<img src="11.4.jpg" alt="Alan Turing Digital Archive" width="251" height="326" />
+<p><strong>Alan Turing on a 2000 "millennium" stamp commemorating his 1937 theory of digital computing.</strong>&nbsp;</p>
 
-
-
+<img src="12.6.jpg" alt="Alan Turing Digital Archive" width="256" height="192" />
+<p><strong> Slate statue of Alan Turing at Bletchley Park with the best-known image of Turing on the wall to the right.</strong>&nbsp;</p>
 
 <p>&nbsp;</p>
 
