@@ -548,10 +548,17 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>The blue plaque at Alan Turing's house on Adlington Road.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="0100.jpg" alt="Alan Turing Digital Archive" width="198" height="211" />
+<p><strong>Bronze bust of Alan Turing presented to ACM by Tom and Grant Mackenzie.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
+<img src="0101.jpg" alt="Alan Turing Digital Archive" width="230" height="150" />
+<p><strong>ACM A.M. Turing Award.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
-
-
+<img src="0102.jpg" alt="Alan Turing Digital Archive" width="400" height="210" />
+<p><strong>A postcard sent from Alan Turing to a friend in Manchester.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
