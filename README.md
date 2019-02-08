@@ -747,6 +747,17 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Colored diagrams showing patterns of dappling and calculations, made by Turing in connection with work on morphogenesis.</strong>&nbsp;</p>
 
 
+<img src="0005.jpg" alt="Alan Turing Digital Archive" width="307" height="450" />
+<p><strong>Alan Turing Letter to London physicist Donald Mackay.</strong>&nbsp;</p>
+
+<img src="0007.jpg" alt="Alan Turing Digital Archive" width="307" height="464" />
+<p><strong>Alan Turing Letter to B H Wood, editor of Chess magazine.</strong>&nbsp;</p>
+
+
+
+
+
+
 <p>&nbsp;</p>
 
 
