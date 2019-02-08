@@ -614,7 +614,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Message from Turing to Gandy, printed off the Manchester Mark I, ca. 1953.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+<img src="0106.jpg" alt="Alan Turing Digital Archive" width="341" height="241" />
+<img src="0107.jpg" alt="Alan Turing Digital Archive" width="341" height="241" />
+<p><strong>Alan Turing's Princeton University File.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
