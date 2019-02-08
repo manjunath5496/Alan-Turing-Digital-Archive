@@ -648,6 +648,14 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 
+<img src="0115.jpg" alt="Alan Turing Digital Archive" width="378" height="561" />
+<p><strong>Referee report by C. G. Darwin on 'On the Chemical basis of Morphogenesis' by A. M. Turing.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<img src="0116.jpg" alt="Alan Turing Digital Archive" width="365" height="208" />
+<p><strong>This is a photograph of the official record of the charges, pleas, and sentences passed on Alan Turing and Arnold Murray in respect of their crimes, 31 March 1952.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
