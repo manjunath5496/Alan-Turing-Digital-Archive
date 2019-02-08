@@ -557,7 +557,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 <img src="0102.jpg" alt="Alan Turing Digital Archive" width="400" height="210" />
-<p><strong>A postcard sent from Alan Turing to a friend in Manchester.</strong>&nbsp;</p>
+<img src="0105.jpg" alt="Alan Turing Digital Archive" width="400" height="210" />
+<p><strong>A postcard Alan Turing sent to his psychologist "Dr Franz Greenbaum" while on holiday in Corfu.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
 <img src="0103.jpg" alt="Alan Turing Digital Archive" width="300" height="238" />
