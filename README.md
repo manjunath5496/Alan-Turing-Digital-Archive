@@ -246,6 +246,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 95. Sara Turing: Alan M. Turing, Cambridge University Press, 2012</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t95.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+96. Turing Lectures</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t96.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+97. A Bibliography of the ACM Turing Awards</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t97.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
 
 <p>&nbsp;</p>
