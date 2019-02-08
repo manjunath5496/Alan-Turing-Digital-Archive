@@ -560,6 +560,16 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>A postcard sent from Alan Turing to a friend in Manchester.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="0103.jpg" alt="Alan Turing Digital Archive" width="300" height="238" />
+<p><strong>Note from Alan Turing to Robin Gandy, March 1954.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="0104.jpg" alt="Alan Turing Digital Archive" width="513" height="186" />
+<p><strong>Message from Turing to Gandy, printed off the Manchester Mark I, ca. 1953.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
 <p><br /><strong>1912 (23 June):</strong> Birth, Paddington, London</p>
@@ -583,7 +593,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><br /><strong>1953-54:</strong> Unfinished work in biology and physics</p>
 <p><br /><strong>1954 (7 June):</strong> Death (suicide) by cyanide poisoning, Wilmslow, Cheshire.</p>
 <p>&nbsp;</p>
-<img src="086.jpg" alt="Alan Turing Digital Archive" width="425" height="157" />
+<img src="01000.png" alt="Alan Turing Digital Archive" width="364" height="419" />
 <p>&nbsp;</p>
 <h2>Alan Turing quotes</h2>
 <p>&nbsp;</p>
