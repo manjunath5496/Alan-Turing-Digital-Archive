@@ -325,6 +325,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan and his elder brother John.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="0004.jpg" alt="Alan Turing Digital Archive" width="270" height="349" />
+<p><strong>Drawing of Alan Turing by his mother, at his preparatory school, Hazelhurst, Sussex, 1923.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="0005.jpg" alt="Alan Turing Digital Archive" width="270" height="179" />
+<p><strong>Preparatory school, Hazelhurst.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img src="38.jpg" alt="Alan Turing Digital Archive" width="300" height="205" />
 <p><strong>Turing and friends on a Cornish beach, April 1930.</strong>&nbsp;</p>
@@ -712,6 +719,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <img src="01120.jpg" alt="Alan Turing Digital Archive" width="300" height="225" />
 <p><strong>The London 2012 Olympic Torch flame was passed on in front of Turing's statue in Manchester on his 100th birthday.</strong>&nbsp;</p>
+
+<img src="0005.png" alt="Alan Turing Digital Archive" width="257" height="328" />
+<p><strong>Colored diagrams showing patterns of dappling and calculations, made by Turing in connection with work on morphogenesis.</strong>&nbsp;</p>
+
+
 <p>&nbsp;</p>
 
 
