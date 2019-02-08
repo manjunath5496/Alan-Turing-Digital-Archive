@@ -295,6 +295,14 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 111. Life in Code and Digits: When Shannon met Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t111.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+112. Alan Turing&minus;Report Card Teachers' Comments, 1926&minus;1931</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t112.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+113. Biographical Memoirs &minus; Alan Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t113.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+
+
 <p>&nbsp;</p>
 
 <img src="021.png" alt="Alan Turing Digital Archive" width="160" height="132" />
