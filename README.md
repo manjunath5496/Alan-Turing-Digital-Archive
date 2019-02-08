@@ -325,7 +325,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan and his elder brother John.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="0004.jpg" alt="Alan Turing Digital Archive" width="270" height="349" />
+<img src="0004.png" alt="Alan Turing Digital Archive" width="270" height="349" />
 <p><strong>Drawing of Alan Turing by his mother, at his preparatory school, Hazelhurst, Sussex, 1923.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
