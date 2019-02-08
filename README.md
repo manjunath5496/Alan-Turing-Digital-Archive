@@ -723,7 +723,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing's Code-Breaking Papers Discovered In Roof Holes At Bletchley Park.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="00005.jpg" alt="Alan Turing Digital Archive " width="259" height="132" />
+<img src="0000010.jpg" alt="Alan Turing Digital Archive " width="259" height="132" />
 <p><strong>A sample of Turing's typing.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
