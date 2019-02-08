@@ -465,6 +465,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 
 <img src="15.jpg" alt="Alan Turing Digital Archive" width="150" height="225" />
+<img src="0114.jpg" alt="Alan Turing Digital Archive" width="248" height="197" />
 <p><strong>Bombe machine</strong>&nbsp;</p>
 <p> Bombe machine, a code-breaking machine, originally developed by Alan Turing and others, used during World War II.</p>
 <p>&nbsp;</p>
@@ -632,6 +633,21 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="0110.jpg" alt="Alan Turing Digital Archive" width="340" height="191" />
 <p><strong>Alan Turing autograph.</strong>&nbsp;</p>
 <p>&nbsp;</p>
+
+<img src="0111.jpg" alt="Alan Turing Digital Archive" width="250" height="313" />
+<p><strong>Visitor's Book signature: Alan Turing's signature 8th from the top.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="0112.jpg" alt="Alan Turing Digital Archive" width="334" height="272" />
+<p><strong>Alan Turing Letter to Alonzo Church.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<img src="0113.jpg" alt="Alan Turing Digital Archive" width="288" height="438" />
+<p><strong>Alan Turing Scrapbook.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 
 
 
