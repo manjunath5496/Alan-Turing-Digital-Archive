@@ -310,6 +310,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing with his mother Ethel Sara Turing.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="0981.jpg" alt="Alan Turing Digital Archive" width="253" height="193" />
+<p><strong>Alan Turing with his mother and brother on a beach on the South Coast of England in 1913.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img src="022.jpg" alt="Alan Turing Digital Archive" width="154" height="244" />
 <p><strong>Alan and his elder brother John.</strong>&nbsp;</p>
