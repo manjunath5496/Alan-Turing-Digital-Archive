@@ -252,6 +252,23 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 97. A Bibliography of the ACM Turing Awards</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t97.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+98. Turing's Real Machines By Michael R. Williams</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t98.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+99. A Chosen IV Attack Against Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t99.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+100. Laplace, Turing and the "imitation game" impossible geometry: randomness, determinism and programs in Turing's test</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t100.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+101. Cryptography and Computation after Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t101.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+
+
+
+
+
 
 <p>&nbsp;</p>
 
