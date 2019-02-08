@@ -351,6 +351,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>This is the copy of the school prize which Turing chose in honour of his 'first love' Christopher Morcom.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="0411.jpg" alt="Alan Turing" width="200" height="182" />
+<p><strong>Christopher Morcom with his parents in 1929.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img src="70.jpg" alt="Alan Turing Digital Archive" width="227" height="248" />
 <p><strong>Turing, age 18, next to Ben Davis, head of Mathematics at Sherborne School.  </strong>&nbsp;</p>
 <p>&nbsp;</p>
