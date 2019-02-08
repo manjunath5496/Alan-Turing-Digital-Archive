@@ -410,6 +410,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing in 1934.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="1.02.jpg" alt="Alan Turing Digital Archive" width="244" height="167" />
+<p><strong>Hut 8, where Turing's Naval Enigma section was based.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img src="47.jpg" alt="Alan Turing Digital Archive" width="342" height="192" />
 <p><strong>The young Alan Turing in more innocent times.</strong>&nbsp;</p>
 <p>&nbsp;</p>
