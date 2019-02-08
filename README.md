@@ -618,7 +618,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Extracts from Turing’s notes on the Enigma Machine, c.1939&minus;42.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="0109.jpg" alt="Alan Turing Digital Archive" width="562" height="400" />
+<img src="0109.jpg" alt="Alan Turing Digital Archive" width="281" height="200" />
 <p><strong>A unique collection of letters and correspondence from the late Alan Turing found in an old filing cabinet in a storeroom at the University of Manchester.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -627,6 +627,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
+<p><br /><strong> Alan Turing &minus; Timeline</strong></p>
 <p><br /><strong>1912 (23 June):</strong> Birth, Paddington, London</p>
 <p><br /><strong>1926-31:</strong> Sherborne School</p>
 <p><br /><strong>1930:</strong> Death of friend Christopher Morcom</p>
