@@ -406,6 +406,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>The young Alan Turing in more innocent times.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="00002.jpg" alt="Alan Turing Digital Archive" width="200" height="267" />
+<p><strong>As a fellow at King's, Cambridge.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 <img src="68.jpg" alt="Alan Turing Digital Archive" width="151" height="257" />
 <p><strong> On the right is a rare snapshot of Alan Turing in a seminar at Princeton at this period.</strong>&nbsp;</p>
 <p>&nbsp;</p>
@@ -582,6 +587,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing's Royal Pardon (UK Government).</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="00003.jpg" alt="Alan Turing Digital Archive" width="310" height="206" />
+<p><strong>Signature of Alan Turing's mother Sara, from when she visited after his death.</strong>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img src="66.jpg" alt="Alan Turing Digital Archive" width="180" height="240" />
 <p><strong>&nbsp;</strong>&nbsp;</p>
