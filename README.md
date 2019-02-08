@@ -614,6 +614,17 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing's Princeton University File.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img src="0108.jpg" alt="Alan Turing Digital Archive" width="260" height="415" />
+<p><strong>Extracts from Turing’s notes on the Enigma Machine, c.1939&minus;42.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="0109.jpg" alt="Alan Turing Digital Archive" width="562" height="400" />
+<p><strong>A unique collection of letters and correspondence from the late Alan Turing found in an old filing cabinet in a storeroom at the University of Manchester.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
 <p><br /><strong>1912 (23 June):</strong> Birth, Paddington, London</p>
