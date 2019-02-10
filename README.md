@@ -796,6 +796,25 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="0.06.jpg" alt="Alan Turing Digital Archive" width="230" height="250" />
 <p><strong>von Neumann's formal letter of reference dated June 1, 1937, supporting Turing's application for a Procter Fellowship at Princeton for the year 1937&minus;38.</strong>&nbsp;</p>
 
+<img src="0.004.jpg" alt="Alan Turing Digital Archive" width="240" height="270" />
+<p><strong>Brian Randell Letter to Alan Turing's mother.</strong>&nbsp;</p>
+
+<img src="0.07.jpg" alt="Alan Turing Digital Archive" width="265" height="376" />
+<img src="0.08.jpg" alt="Alan Turing Digital Archive" width="265" height="376" />
+<p><strong>The complete text of Gordon Brown's apology to Alan Turing.</strong>&nbsp;</p>
+
+<img src="0.008.jpg" alt="Alan Turing Digital Archive" width="301" height="421" />
+<img src="0.009.jpg" alt="Alan Turing Digital Archive" width="301" height="421" />
+<img src="0.0010.jpg" alt="Alan Turing Digital Archive" width="301" height="421" />
+<p><strong>Alan Turing's letter to Churchill.</strong>&nbsp;</p>
+
+
+
+
+
+
+
+
 
 <p>&nbsp;</p>
 
