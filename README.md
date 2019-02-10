@@ -301,7 +301,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 113. Biographical Memoirs &minus; Alan Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t113.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+114. The Gay Man Who Defeated Nazi Germany</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/et.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
+115. Alan Turing, the Politics of Sexual Science, and the Making of a Gay Icon</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/bt.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
 <p>&nbsp;</p>
 
