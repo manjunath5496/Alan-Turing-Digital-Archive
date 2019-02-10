@@ -846,6 +846,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong> Ethel Sara Turing (nee Stoney) in her old age. She died in 1976 aged 95.</strong>&nbsp;</p>
 
 
+<img src="k1.jpg" alt="Alan Turing Digital Archive" width="256" height="241" />
+<p><strong> &nbsp;</strong>&nbsp;</p>
+
+
+<img src="k2.jpg" alt="Alan Turing Digital Archive" width="300" height="268" />
+<p><strong> &nbsp;</strong>&nbsp;</p>
+
 
 <p>&nbsp;</p>
 
