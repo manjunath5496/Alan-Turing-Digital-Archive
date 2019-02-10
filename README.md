@@ -817,12 +817,20 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="0.007.jpg" alt="Alan Turing Digital Archive" width="300" height="200" />
 <p><strong>Alan Turing's belongings from school and university days.</strong>&nbsp;</p>
 
-<img src="0.007.jpg" alt="Alan Turing Digital Archive" width="300" height="200" />
-<p><strong>Alan Turing's belongings from school and university days.</strong>&nbsp;</p>
+<img src="0.00005.jpg" alt="Alan Turing Digital Archive" width="215" height="266" />
+<p><strong>Turing was injected with Stilboestrol &minus; a synthesised form of oestrogen.</strong>&nbsp;</p>
 
+<img src="0.0011.jpg" alt="Alan Turing Digital Archive" width="362" height="272" />
+<p><strong>The Turing residence at 22 Ennismore Avenue, Guildford.</strong>&nbsp;</p>
 
+<img src="0.0013.jpg" alt="Alan Turing Digital Archive" width="320" height="186" />
+<p><strong>Bletchley Park : Mansion : Turing's Blade.</strong>&nbsp;</p>
 
+<img src="0.00096.jpg" alt="Alan Turing Digital Archive" width="320" height="264" />
+<p><strong>Alan Turing monument in Sackville Gardens.</strong>&nbsp;</p>
 
+<img src="0.0012.jpg" alt="Alan Turing Digital Archive" width="318" height="191" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
 
 
 <p>&nbsp;</p>
