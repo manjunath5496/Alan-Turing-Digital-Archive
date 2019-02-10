@@ -808,8 +808,17 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="0.0010.jpg" alt="Alan Turing Digital Archive" width="301" height="421" />
 <p><strong>Alan Turing's letter to Churchill.</strong>&nbsp;</p>
 
+<img src="0.005.jpg" alt="Alan Turing Digital Archive" width="300" height="168" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
 
+<img src="0.006.jpg" alt="Alan Turing Digital Archive" width="300" height="200" />
+<p><strong>The Turing Bombe Rebuild Project, Bletchley Park Museum.</strong>&nbsp;</p>
 
+<img src="0.007.jpg" alt="Alan Turing Digital Archive" width="300" height="200" />
+<p><strong>Alan Turing's belongings from school and university days.</strong>&nbsp;</p>
+
+<img src="0.007.jpg" alt="Alan Turing Digital Archive" width="300" height="200" />
+<p><strong>Alan Turing's belongings from school and university days.</strong>&nbsp;</p>
 
 
 
