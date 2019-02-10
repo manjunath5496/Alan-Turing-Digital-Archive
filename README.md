@@ -799,8 +799,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="0.004.jpg" alt="Alan Turing Digital Archive" width="240" height="270" />
 <p><strong>Brian Randell Letter to Alan Turing's mother.</strong>&nbsp;</p>
 
-<img src="0.07.jpg" alt="Alan Turing Digital Archive" width="265" height="376" />
-<img src="0.08.jpg" alt="Alan Turing Digital Archive" width="265" height="376" />
+<img src="0.07.png" alt="Alan Turing Digital Archive" width="265" height="376" />
+<img src="0.08.png" alt="Alan Turing Digital Archive" width="265" height="376" />
 <p><strong>The complete text of Gordon Brown's apology to Alan Turing.</strong>&nbsp;</p>
 
 <img src="0.008.jpg" alt="Alan Turing Digital Archive" width="301" height="421" />
