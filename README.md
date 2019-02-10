@@ -778,13 +778,23 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Crew of King's College's 2nd boat, May 1935. Alan Turing is second from the Right.</strong>&nbsp;</p>
 
 <img src="0.04.jpg" alt="Alan Turing Digital Archive" width="306" height="408" />
+<p><strong>Post Mortem Examination report of Alan Turing.</strong>&nbsp;</p>
+
+
+<img src="0.000001.jpg" alt="Alan Turing Digital Archive" width="300" height="400" />
 <p><strong>Death certificate of Alan Turing.</strong>&nbsp;</p>
+
+
 
 <img src="0.03.jpg" alt="Alan Turing Digital Archive" width="229" height="330" />
 <p><strong> Alan Turing Prize for Science bookplate.</strong>&nbsp;</p>
 
 
+<img src="0.003.jpg" alt="Alan Turing Digital Archive" width="200" height="300" />
+<p><strong> Alan Turing Teddy Bear, Bletchley Park Museum.</strong>&nbsp;</p>
 
+<img src="0.06.jpg" alt="Alan Turing Digital Archive" width="230" height="250" />
+<p><strong>von Neumann's formal letter of reference dated June 1, 1937, supporting Turing's application for a Procter Fellowship at Princeton for the year 1937&minus;38.</strong>&nbsp;</p>
 
 
 <p>&nbsp;</p>
