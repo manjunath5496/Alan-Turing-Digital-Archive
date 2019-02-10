@@ -583,7 +583,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Bonham's senior specialist Cassandra Hatton discusses a working Enigma cipher machine that along with the 1942 56-page notebook belonging to codebreaker Alan Turing.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img src="67.jpg" alt="Alan Turing Digital Archive" width="275" height="183" />
+<img src="67.05.jpg" alt="Alan Turing Digital Archive" width="220" height="293" />
 <p><strong>A working Enigma cipher machine.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -763,6 +763,29 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <img src="12.6.jpg" alt="Alan Turing Digital Archive" width="256" height="192" />
 <p><strong> Slate statue of Alan Turing at Bletchley Park with the best-known image of Turing on the wall to the right.</strong>&nbsp;</p>
+
+<img src="0.02.png" alt="Alan Turing Digital Archive" width="324" height="148" />
+<p><strong> Turing (front row far left), aged 13, at Westcott House Sherborne, 1926.</strong>&nbsp;</p>
+
+
+<img src="0.06.png" alt="Alan Turing Digital Archive" width="250" height="130" />
+<p><strong>&nbsp; </strong>&nbsp;</p>
+
+<img src="0.05.jpg" alt="Alan Turing Digital Archive" width="274" height="204" />
+<p><strong>&nbsp; </strong>&nbsp;</p>
+
+<img src="0.01.jpg" alt="Alan Turing Digital Archive" width="256" height="175" />
+<p><strong>Crew of King's College's 2nd boat, May 1935. Alan Turing is second from the Right.</strong>&nbsp;</p>
+
+<img src="0.04.jpg" alt="Alan Turing Digital Archive" width="306" height="408" />
+<p><strong>Death certificate of Alan Turing.</strong>&nbsp;</p>
+
+<img src="0.03.jpg" alt="Alan Turing Digital Archive" width="229" height="330" />
+<p><strong> Alan Turing Prize for Science bookplate.</strong>&nbsp;</p>
+
+
+
+
 
 <p>&nbsp;</p>
 
