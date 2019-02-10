@@ -832,6 +832,24 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="0.0012.jpg" alt="Alan Turing Digital Archive" width="318" height="191" />
 <p><strong>&nbsp;</strong>&nbsp;</p>
 
+<img src="t0.jpg" alt="Alan Turing Digital Archive" width="270" height="151" />
+<p><strong>Alan Turing has been crowned the greatest person of the 20th Century by BBC viewers.</strong>&nbsp;</p>
+
+<img src="0.0000005.png" alt="Alan Turing Digital Archive" width="511" height="272" />
+<p><strong> The will of Alan Turing.</strong>&nbsp;</p>
+
+<img src="b0.jpg" alt="Alan Turing Digital Archive" width="300" height="168" />
+<p><strong> Letter written by Turing on solitaire.</strong>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
 
 <p>&nbsp;</p>
 
