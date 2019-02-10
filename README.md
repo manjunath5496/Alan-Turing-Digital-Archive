@@ -841,13 +841,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="b0.jpg" alt="Alan Turing Digital Archive" width="300" height="168" />
 <p><strong> Letter written by Turing on solitaire.</strong>&nbsp;</p>
 
-
-
-
-
-
-
-
+<img src="e1.png" alt="Alan Turing Digital Archive" width="231" height="273" />
+<img src="b1.jpg" alt="Alan Turing Digital Archive" width="196" height="282" />
+<p><strong> Ethel Sara Turing (nee Stoney) in her old age. She died in 1976 aged 95.</strong>&nbsp;</p>
 
 
 
