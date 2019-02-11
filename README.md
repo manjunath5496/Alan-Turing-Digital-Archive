@@ -860,6 +860,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong> &nbsp;</strong>&nbsp;</p>
 
 
+<img src="z1.png" alt="Alan Turing Digital Archive" width="300" height="268" />
+<p><strong> CRG researchers confirm that a mathematical theory first proposed by Alan Turing in 1952 can explain the formation of fingers.</strong>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 
