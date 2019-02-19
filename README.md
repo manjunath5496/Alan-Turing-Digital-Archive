@@ -1016,16 +1016,16 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 
 <h2>Biography</h2>
-<p>A short&nbsp;<a href="http://www.turing.org.uk/bio/index.html" rel="nofollow">biography of Alan Turing</a>&nbsp;is written by Andrew Hodges.</p>
+<p>A short&nbsp;<a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al4.pdf" rel="nofollow">biography of Alan Turing</a>&nbsp;is written by Andrew Hodges.</p>
 
 
 <h2>&nbsp;</h2>
 <h2>Movies</h2>
-<p>The movie&nbsp;<a href="http://www.imdb.com/title/tt2084970/" rel="nofollow">The Imitation Game (2014)</a>&nbsp;tried to show Turing's contributions during the World War II. It received an Oscar award for the Best Writing Adapted Screenplay in the&nbsp;<a href="http://en.wikipedia.org/wiki/87th_Academy_Awards" rel="nofollow">87th Academy Awards</a>. The movie has some controversy attached to his historical accuracy, as described&nbsp;<a href="https://en.wikipedia.org/wiki/The_Imitation_Game#Controversy" rel="nofollow">here</a>&nbsp;and&nbsp;<a href="http://www.nybooks.com/blogs/nyrblog/2014/dec/19/poor-imitation-alan-turing/" rel="nofollow">here</a>.</p>
+<p>The movie&nbsp;<a href="https://en.wikipedia.org/wiki/The_Imitation_Game" rel="nofollow">The Imitation Game (2014)</a>&nbsp;tried to show Turing's contributions during the World War II. It received an Oscar award for the Best Writing Adapted Screenplay in the&nbsp;<a href="http://en.wikipedia.org/wiki/87th_Academy_Awards" rel="nofollow">87th Academy Awards</a>. The movie has some controversy attached to his historical accuracy, as described&nbsp;<a href="https://en.wikipedia.org/wiki/The_Imitation_Game#Controversy" rel="nofollow">here</a>&nbsp;and&nbsp;<a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al5.pdf" rel="nofollow">here</a>.</p>
 <p>&nbsp;</p>
 <h2>Is Turing Test Passed?</h2>
 <p>No.</p>
-<p>Even though large news sources claim that the Turing test was passed for the first time by&nbsp;<a href="https://en.wikipedia.org/wiki/Eugene_Goostman" rel="nofollow">Eugene Goostman</a>&nbsp;(a chatbot made specifically to pass the Turing test), the replication of the test is considered far from the real Turing test. More on this controversy can be found&nbsp;<a href="https://www.techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pass-turing-test-first-time-everyone-should-know-better.shtml" rel="nofollow">here</a>.</p>
+<p>Even though large news sources claim that the Turing test was passed for the first time by&nbsp;<a href="https://en.wikipedia.org/wiki/Eugene_Goostman" rel="nofollow">Eugene Goostman</a>&nbsp;(a chatbot made specifically to pass the Turing test), the replication of the test is considered far from the real Turing test. More on this controversy can be found&nbsp;<a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al6.pdf" rel="nofollow">here</a>.</p>
 
 
 
