@@ -921,7 +921,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="1c22.jpg" alt="Alan Turing Digital Archive" width="268" height="128" />
 <p><strong> &nbsp;</strong>&nbsp;</p>
 
-
+<img src="1c23.jpg" alt="Alan Turing Digital Archive" width="256" height="128" />
+<img src="1c24.jpg" alt="Alan Turing Digital Archive" width="384" height="107" />
+<p><strong> Alan Turing's Hand Scribbled Notebook</strong>&nbsp;</p>
 
 
 
