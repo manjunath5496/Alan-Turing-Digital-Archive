@@ -891,6 +891,12 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong> Letter from Turing to Sir W. Ross Ashby, describing how ACE could be used to mimic how the human brain works.</strong>&nbsp;</p>
 
 
+<img src="1c8.png" alt="Alan Turing Digital Archive" width="244" height="404" />
+<img src="1c9.png" alt="Alan Turing Digital Archive" width="325" height="324" />
+<p><strong> A report written by Turing in 1948 titled "Intelligent Machinery" is the most detailed treating of artificial intelligence written before 1950. It was not published during Turing’s lifetime.</strong>&nbsp;</p>
+
+<img src="1c10.png" alt="Alan Turing Digital Archive" width="300" height="376" />
+<p><strong> Alan Turing quoted in 11 June 1949 edition of "The Times" (UK).</strong>&nbsp;</p>
 
 
 
