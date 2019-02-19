@@ -925,6 +925,27 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="1c24.jpg" alt="Alan Turing Digital Archive" width="384" height="107" />
 <p><strong> Alan Turing's Hand Scribbled Notebook</strong>&nbsp;</p>
 
+<img src="1c25.jpg" alt="Alan Turing Digital Archive" width="210" height="230" />
+<img src="1c26.jpg" alt="Alan Turing Digital Archive" width="315" height="167" />
+<p><strong> &nbsp;</strong>&nbsp;</p>
+
+
+<img src="1c27.jpg" alt="Alan Turing Digital Archive" width="224" height="126" />
+<img src="1c28.jpg" alt="Alan Turing Digital Archive" width="224" height="168" />
+<p><strong> A University of Wolverhampton building has been renamed in honour of mathematician and wartime codebreaker Alan Turing.</strong>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>&nbsp;</p>
 
 116. "Mathematical Theory of ENIGMA Machine" </br> <a href="https://drive.google.com/file/d/1Y5JBbrU9DZWci358UmYBtZEU4UaGrzG-/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
