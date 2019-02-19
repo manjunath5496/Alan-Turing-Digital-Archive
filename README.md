@@ -1032,8 +1032,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <ul>
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at1.pdf" rel="nofollow">Equivalence of left and right almost periodicity</a>&nbsp;(1935)</li>
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at2.pdf" rel="nofollow">Computability and &lambda;-Definability</a>&nbsp;(1937)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/12" rel="nofollow">On computable numbers, with an application to the Entscheidungsproblem</a>&nbsp;(1937)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/13" rel="nofollow">Finite approximations to lie groups</a>&nbsp;(1938)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at3.pdf" rel="nofollow">On computable numbers, with an application to the Entscheidungsproblem</a>&nbsp;(1937)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at4.pdf" rel="nofollow">Finite approximations to lie groups</a>&nbsp;(1938)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/14" rel="nofollow">The extensions of a group</a>&nbsp;(1938)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/15" rel="nofollow">Systems of logic based on ordinals</a>&nbsp;(1939)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/16" rel="nofollow">The use of dots as brackets in Church's system</a>&nbsp;(1942)</li>
