@@ -880,6 +880,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Turing was prosecuted in 1952 for homosexual acts, when such behavior was still criminalized in the UK. He accepted treatment with oestrogen injections (chemical castration) as an alternative to prison. Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning.</strong>&nbsp;</p>
 
 
+<img src="1c4.jpg" alt="Alan Turing Digital Archive" width="320" height="180" />
+<p><strong> Open letter asking the government to pardon 49,000 men who were prosecuted for being gay.</strong>&nbsp;</p>
+
 
 
 <p>&nbsp;</p>
