@@ -1036,9 +1036,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at4.pdf" rel="nofollow">Finite approximations to lie groups</a>&nbsp;(1938)</li>
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at5.pdf" rel="nofollow">The extensions of a group</a>&nbsp;(1938)</li>
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t2.pdf" rel="nofollow">Systems of logic based on ordinals</a>&nbsp;(1939)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/16" rel="nofollow">The use of dots as brackets in Church's system</a>&nbsp;(1942)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/1" rel="nofollow">Lecture to L.M.S. Feb. 20 1947</a>&nbsp;(1947)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/18" rel="nofollow">Rounding-off errors in matrix processes</a>&nbsp;(1948)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at6.pdf" rel="nofollow">The use of dots as brackets in Church's system</a>&nbsp;(1942)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at7.pdf" rel="nofollow">Lecture to L.M.S. Feb. 20 1947</a>&nbsp;(1947)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at8.pdf" rel="nofollow">Rounding-off errors in matrix processes</a>&nbsp;(1948)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/3" rel="nofollow">A practical form of type theory I</a>&nbsp;(1948)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/8" rel="nofollow">Checking a large routine</a>&nbsp;(1949)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/9" rel="nofollow">Computing machinery and intelligence</a>&nbsp;(1950)</li>
