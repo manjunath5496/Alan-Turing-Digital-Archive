@@ -925,11 +925,26 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="1c24.jpg" alt="Alan Turing Digital Archive" width="384" height="107" />
 <p><strong> Alan Turing's Hand Scribbled Notebook</strong>&nbsp;</p>
 
+<p>&nbsp;</p>
 
+116. "Mathematical Theory of ENIGMA Machine" </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
+117. "The Applications of Probability to Cryptography"</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
+118. "Paper on Statistics of Repetitions" </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
 <p>&nbsp;</p>
+
+
+
+
+
+
+
+
 
 
 <p><strong>Statement of apology by the Prime Minister, Gordon Brown, 10 September 2009:</strong><br />... a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely... </p>
