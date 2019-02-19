@@ -937,8 +937,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <img src="1c29.jpg" alt="Alan Turing Digital Archive" width="300" height="275" />
 <p><strong> In 2009, the British Government issued this posthumous apology to Alan Turing but he was not pardoned.</strong>&nbsp;</p>
+</strong>&nbsp;</p>
 
-
+<img src="1c30.jpg" alt="Alan Turing Digital Archive" width="300" height="275" />
+<p><strong> Papers belonging to and associated with Alan Turing.</strong>&nbsp;</p>
+</strong>&nbsp;</p>
 
 
 
