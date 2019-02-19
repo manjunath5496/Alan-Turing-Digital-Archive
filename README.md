@@ -1039,14 +1039,14 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at6.pdf" rel="nofollow">The use of dots as brackets in Church's system</a>&nbsp;(1942)</li>
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at7.pdf" rel="nofollow">Lecture to L.M.S. Feb. 20 1947</a>&nbsp;(1947)</li>
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at8.pdf" rel="nofollow">Rounding-off errors in matrix processes</a>&nbsp;(1948)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/3" rel="nofollow">A practical form of type theory I</a>&nbsp;(1948)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/8" rel="nofollow">Checking a large routine</a>&nbsp;(1949)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/9" rel="nofollow">Computing machinery and intelligence</a>&nbsp;(1950)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/32" rel="nofollow">Programmers' handbook for Manchester electronic computer. Mark II</a>&nbsp;(1951)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/4" rel="nofollow">Intelligent machinery, a heretical theory</a>&nbsp;(1951)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/5" rel="nofollow">Can digital computers think?</a>&nbsp;(1951)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at9.pdf" rel="nofollow">A practical form of type theory I</a>&nbsp;(1948)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at10.pdf" rel="nofollow">Checking a large routine</a>&nbsp;(1949)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t1.pdf" rel="nofollow">Computing machinery and intelligence</a>&nbsp;(1950)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at11.pdf" rel="nofollow">Programmers' handbook for Manchester electronic computer. Mark II</a>&nbsp;(1951)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t35.pdf" rel="nofollow">Intelligent machinery, a heretical theory</a>&nbsp;(1951)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t61.pdf" rel="nofollow">Can digital computers think?</a>&nbsp;(1951)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/6" rel="nofollow">Can automatic calculating machines be said to think?</a>&nbsp;(1952)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/22" rel="nofollow">The chemical basis of morphogenesis</a>&nbsp;(1952)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t33.pdf" rel="nofollow">The chemical basis of morphogenesis</a>&nbsp;(1952)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/7" rel="nofollow">Digital computers applied to games</a>&nbsp;(1953)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/21" rel="nofollow">Some calculations of the Riemann zeta-function</a>&nbsp;(1953)</li>
 </ul>
