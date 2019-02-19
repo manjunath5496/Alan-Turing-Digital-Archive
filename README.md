@@ -911,7 +911,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong> In August 2009, petition started urging the British Government to posthumously apologize to Alan Turing for prosecuting him as a homosexual.</strong>&nbsp;</p>
 
 
-
+<img src="1c18.png" alt="Alan Turing Digital Archive" width="245" height="146" />
+<img src="1c19.png" alt="Alan Turing Digital Archive" width="245" height="146" />
+<p><strong> Enigma Report, 1939, Alan Turing Internet Scrapbook.</strong>&nbsp;</p>
 
 
 <p>&nbsp;</p>
