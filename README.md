@@ -884,6 +884,15 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="1c4.jpg" alt="Alan Turing Digital Archive" width="320" height="180" />
 <p><strong> Open letter asking the government to pardon 49,000 men who were prosecuted for being gay.</strong>&nbsp;</p>
 
+<img src="1c6.png" alt="Alan Turing Digital Archive" width="325" height="311" />
+<p><strong> Original manuscript of "Proposed Electronic Calculator," which was to become the Automatic Computing Engine (ACE).</strong>&nbsp;</p>
+
+<img src="1c7.png" alt="Alan Turing Digital Archive" width="325" height="361" />
+<p><strong> Letter from Turing to Sir W. Ross Ashby, describing how ACE could be used to mimic how the human brain works.</strong>&nbsp;</p>
+
+
+
+
 
 
 <p>&nbsp;</p>
