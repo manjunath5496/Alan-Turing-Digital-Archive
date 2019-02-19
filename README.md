@@ -1034,8 +1034,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at2.pdf" rel="nofollow">Computability and &lambda;-Definability</a>&nbsp;(1937)</li>
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at3.pdf" rel="nofollow">On computable numbers, with an application to the Entscheidungsproblem</a>&nbsp;(1937)</li>
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at4.pdf" rel="nofollow">Finite approximations to lie groups</a>&nbsp;(1938)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/14" rel="nofollow">The extensions of a group</a>&nbsp;(1938)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/15" rel="nofollow">Systems of logic based on ordinals</a>&nbsp;(1939)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at5.pdf" rel="nofollow">The extensions of a group</a>&nbsp;(1938)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t2.pdf" rel="nofollow">Systems of logic based on ordinals</a>&nbsp;(1939)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/16" rel="nofollow">The use of dots as brackets in Church's system</a>&nbsp;(1942)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/1" rel="nofollow">Lecture to L.M.S. Feb. 20 1947</a>&nbsp;(1947)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/18" rel="nofollow">Rounding-off errors in matrix processes</a>&nbsp;(1948)</li>
