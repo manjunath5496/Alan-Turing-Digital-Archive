@@ -873,6 +873,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 
 
+<img src="1c.jpg" alt="Alan Turing Digital Archive" width="191" height="253" />
+<img src="1c1.jpg" alt="Alan Turing Digital Archive" width="337" height="200" />
+<img src="1c2.jpg" alt="Alan Turing Digital Archive" width="318" height="191" />
+<img src="1c3.jpg" alt="Alan Turing Digital Archive" width="300" height="143" />
+<p><strong>Turing was prosecuted in 1952 for homosexual acts, when such behavior was still criminalized in the UK. He accepted treatment with oestrogen injections (chemical castration) as an alternative to prison. Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning.</strong>&nbsp;</p>
 
 
 
