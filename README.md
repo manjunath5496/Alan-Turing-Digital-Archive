@@ -943,7 +943,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong> Papers belonging to and associated with Alan Turing.</strong>&nbsp;</p>
 </strong>&nbsp;</p>
 
-
+<img src="1c31.jpg" alt="Alan Turing Digital Archive" width="275" height="154" />
+<p><strong>Alan Turing's Secret Code-Breaking Essay.</strong>&nbsp;</p>
+</strong>&nbsp;</p>
 
 
 
