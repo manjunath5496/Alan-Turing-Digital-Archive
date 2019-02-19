@@ -1027,6 +1027,26 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>No.</p>
 <p>Even though large news sources claim that the Turing test was passed for the first time by&nbsp;<a href="https://en.wikipedia.org/wiki/Eugene_Goostman" rel="nofollow">Eugene Goostman</a>&nbsp;(a chatbot made specifically to pass the Turing test), the replication of the test is considered far from the real Turing test. More on this controversy can be found&nbsp;<a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al6.pdf" rel="nofollow">here</a>.</p>
 
-
-
-
+<h2>Papers by Alan Turing</h2>
+<p>The list of papers published by Alan Turing during his life. This list is arranged in the chronological order.</p>
+<ul>
+<li><a href="http://www.turingarchive.org/browse.php/B/10" rel="nofollow">Equivalence of left and right almost periodicity</a>&nbsp;(1935)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/11" rel="nofollow">Computability and &lambda;-Definability</a>&nbsp;(1937)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/12" rel="nofollow">On computable numbers, with an application to the Entscheidungsproblem</a>&nbsp;(1937)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/13" rel="nofollow">Finite approximations to lie groups</a>&nbsp;(1938)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/14" rel="nofollow">The extensions of a group</a>&nbsp;(1938)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/15" rel="nofollow">Systems of logic based on ordinals</a>&nbsp;(1939)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/16" rel="nofollow">The use of dots as brackets in Church's system</a>&nbsp;(1942)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/1" rel="nofollow">Lecture to L.M.S. Feb. 20 1947</a>&nbsp;(1947)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/18" rel="nofollow">Rounding-off errors in matrix processes</a>&nbsp;(1948)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/3" rel="nofollow">A practical form of type theory I</a>&nbsp;(1948)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/8" rel="nofollow">Checking a large routine</a>&nbsp;(1949)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/9" rel="nofollow">Computing machinery and intelligence</a>&nbsp;(1950)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/32" rel="nofollow">Programmers' handbook for Manchester electronic computer. Mark II</a>&nbsp;(1951)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/4" rel="nofollow">Intelligent machinery, a heretical theory</a>&nbsp;(1951)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/5" rel="nofollow">Can digital computers think?</a>&nbsp;(1951)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/6" rel="nofollow">Can automatic calculating machines be said to think?</a>&nbsp;(1952)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/22" rel="nofollow">The chemical basis of morphogenesis</a>&nbsp;(1952)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/7" rel="nofollow">Digital computers applied to games</a>&nbsp;(1953)</li>
+<li><a href="http://www.turingarchive.org/browse.php/B/21" rel="nofollow">Some calculations of the Riemann zeta-function</a>&nbsp;(1953)</li>
+</ul>
