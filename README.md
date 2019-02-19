@@ -863,6 +863,20 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <img src="z1.png" alt="Alan Turing Digital Archive" width="203" height="153" />
 <p><strong> CRG researchers confirm that a mathematical theory first proposed by Alan Turing in 1952 can explain the formation of fingers.</strong>&nbsp;</p>
 
+
+<img src="1a.jpg" alt="Alan Turing Digital Archive" width="310" height="194" />
+<p><strong> Alan Turing's secret papers.</strong>&nbsp;</p>
+
+
+<img src="1b.jpg" alt="Alan Turing Digital Archive" width="310" height="194" />
+<p><strong> Alan Turing, who worked at Bletchley Park breaking codes. Plans are now afoot to restore Block C.</strong>&nbsp;</p>
+
+
+
+
+
+
+
 <p>&nbsp;</p>
 
 
