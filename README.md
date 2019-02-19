@@ -1031,7 +1031,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>The list of papers published by Alan Turing during his life. This list is arranged in the chronological order.</p>
 <ul>
 <li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at1.pdf" rel="nofollow">Equivalence of left and right almost periodicity</a>&nbsp;(1935)</li>
-<li><a href="http://www.turingarchive.org/browse.php/B/11" rel="nofollow">Computability and &lambda;-Definability</a>&nbsp;(1937)</li>
+<li><a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/at2.pdf" rel="nofollow">Computability and &lambda;-Definability</a>&nbsp;(1937)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/12" rel="nofollow">On computable numbers, with an application to the Entscheidungsproblem</a>&nbsp;(1937)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/13" rel="nofollow">Finite approximations to lie groups</a>&nbsp;(1938)</li>
 <li><a href="http://www.turingarchive.org/browse.php/B/14" rel="nofollow">The extensions of a group</a>&nbsp;(1938)</li>
