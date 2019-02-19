@@ -893,10 +893,23 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <img src="1c8.png" alt="Alan Turing Digital Archive" width="244" height="404" />
 <img src="1c9.png" alt="Alan Turing Digital Archive" width="325" height="324" />
-<p><strong> A report written by Turing in 1948 titled "Intelligent Machinery" is the most detailed treating of artificial intelligence written before 1950. It was not published during Turing’s lifetime.</strong>&nbsp;</p>
+<p><strong> A report written by Turing in 1948 titled "Intelligent Machinery" is the most detailed treating of artificial intelligence written before 1950. It was not published during Turing's lifetime.</strong>&nbsp;</p>
 
 <img src="1c10.png" alt="Alan Turing Digital Archive" width="300" height="376" />
 <p><strong> Alan Turing quoted in 11 June 1949 edition of "The Times" (UK).</strong>&nbsp;</p>
+
+<img src="1c13.png" alt="Alan Turing Digital Archive" width="200" height="340" />
+<p><strong> First page of Turing’s 1950 article "Computing Machinery and Intelligence," where the now famous "Turing Test" was introduced.</strong>&nbsp;</p>
+
+
+<img src="1c11.jpg" alt="Alan Turing Digital Archive" width="384" height="212" />
+<img src="1c12.jpg" alt="Alan Turing Digital Archive" width="301" height="301" />
+<img src="1c17.jpg" alt="Alan Turing Digital Archive" width="339" height="149" />
+<p><strong> &nbsp;.</strong>&nbsp;</p>
+
+<img src="1c14.jpg" alt="Alan Turing Digital Archive" width="360" height="270" />
+<p><strong> In August 2009, petition started urging the British Government to posthumously apologize to Alan Turing for prosecuting him as a homosexual.</strong>&nbsp;</p>
+
 
 
 
