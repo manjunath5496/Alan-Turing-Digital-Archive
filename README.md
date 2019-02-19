@@ -916,6 +916,17 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong> Enigma Report, 1939, Alan Turing Internet Scrapbook.</strong>&nbsp;</p>
 
 
+<img src="1c20.jpg" alt="Alan Turing Digital Archive" width="320" height="150" />
+<img src="1c21.jpg" alt="Alan Turing Digital Archive" width="400" height="210" />
+<img src="1c22.jpg" alt="Alan Turing Digital Archive" width="268" height="128" />
+<p><strong> &nbsp;</strong>&nbsp;</p>
+
+
+
+
+
+
+
 <p>&nbsp;</p>
 
 
