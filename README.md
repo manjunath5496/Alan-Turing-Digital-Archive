@@ -569,7 +569,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 
 
-<img src="57.jpg" alt="Alan Turing Digital Archive" width="255" height="256" />
+<img src="57.jpg" alt="Alan Turing Digital Archive" width="320" height="213" />
 <p><strong>The DEUCE: Digital Electronic Universal Computing Engine, was the first commercially produced digital model and was developed from earlier plans by Alan Turing.</strong>&nbsp;</p>
 <p>&nbsp;</p>
 
