@@ -947,6 +947,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>Alan Turing's Secret Code-Breaking Essay.</strong>&nbsp;</p>
 </strong>&nbsp;</p>
 
+<img src="1031.jpg" alt="Alan Turing Digital Archive" width="300" height="236" />
+<p><strong>ACE Pilot Model designed by Alan Turing.</strong>&nbsp;</p>
+</strong>&nbsp;</p>
+
 <img src="1c31.png" alt="Alan Turing Digital Archive" width="300" height="81" />
 <p><strong>&nbsp;</strong>&nbsp;</p>
 </strong>&nbsp;</p>
