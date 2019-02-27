@@ -959,6 +959,13 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>&nbsp;</strong>&nbsp;</p>
 </strong>&nbsp;</p>
 
+<img src="1c036.jpg" alt="Alan Turing Digital Archive" width="324" height="182" />
+<p><strong>Benedict Cumberbatch played Alan Turner in the 2014 American film, 'The Imitation Game'
+</strong>&nbsp;</p>
+</strong>&nbsp;</p>
+
+
+
 116. "Mathematical Theory of ENIGMA Machine" </br> <a href="https://drive.google.com/file/d/1Y5JBbrU9DZWci358UmYBtZEU4UaGrzG-/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
