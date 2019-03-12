@@ -1084,7 +1084,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <p>&nbsp;</p>
 <h2>Alan Turing: the man who cracked the Enigma code</h2>
-<a href="https://www.youtube.com/watch?v=lawoI6e7hJM&feature=youtu.be" rel="nofollow">View</a>
+<a href="https://www.youtube.com/watch?v=4vSgtEHzj-E&feature=youtu.be" rel="nofollow">View</a>
 
 
 
