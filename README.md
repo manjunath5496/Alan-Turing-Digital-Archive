@@ -1,5 +1,5 @@
 <p>&nbsp;</p>
-<h1>Alan Turing</h1>
+<h1>Alan Mathison Turing</h1>
 <div class="topic-identifier">BRITISH MATHEMATICIAN AND LOGICIAN</div>
 <p>&nbsp;</p>
 <img src="12.jpg" alt="Alan Turing Digital Archive" width="512" height="256" />
@@ -1096,9 +1096,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Memorial" href="https://en.wikipedia.org/wiki/Alan_Turing_Memorial">Alan Turing Memorial</a>, Manchester, England</span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing (sculpture)" href="https://en.wikipedia.org/wiki/Alan_Turing_(sculpture)">Alan Turing sculpture</a>, Eugene, Oregon, United States</span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing statue" href="https://en.wikipedia.org/wiki/Alan_Turing_statue">Alan Turing statue</a>, Bletchley Park, England</span></li>
-<li><span style="color: #000000;"><em><a style="color: #000000;" title="Alan Turing: The Enigma" href="https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma">Alan Turing: The Enigma</a></em></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing: The Enigma" href="https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma">Alan Turing: The Enigma</a></span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Year" href="https://en.wikipedia.org/wiki/Alan_Turing_Year">Alan Turing Year</a></span></li>
-<li><span style="color: #000000;"><em><a style="color: #000000;" title="The Annotated Turing" href="https://en.wikipedia.org/wiki/The_Annotated_Turing">The Annotated Turing</a></em></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="The Annotated Turing" href="https://en.wikipedia.org/wiki/The_Annotated_Turing">The Annotated Turing</a></span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Church&ndash;Turing thesis" href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis">Church&ndash;Turing thesis</a></span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Church&ndash;Turing&ndash;Deutsch principle" href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing%E2%80%93Deutsch_principle">Church&ndash;Turing&ndash;Deutsch principle</a></span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Good&ndash;Turing frequency estimation" href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation">Good&ndash;Turing frequency estimation</a></span></li>
