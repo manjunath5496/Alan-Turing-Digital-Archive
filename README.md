@@ -1112,7 +1112,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turing degree" href="https://en.wikipedia.org/wiki/Turing_degree">Turing degree</a></span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turing Foundation" href="https://en.wikipedia.org/wiki/Turing_Foundation">Turing Foundation</a>, Amsterdam, Netherlands</span></li>
 <li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turing Gateway to Mathematics" href="https://en.wikipedia.org/wiki/Turing_Gateway_to_Mathematics">Turing Gateway to Mathematics</a>, Cambridge, England</span></li>
-<li><span style="color: #000000;"><em><a style="color: #000000;" title="The Turing Guide" href="https://en.wikipedia.org/wiki/The_Turing_Guide">The Turing Guide</a></em></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="The Turing Guide" href="https://en.wikipedia.org/wiki/The_Turing_Guide">The Turing Guide</a></span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turing House School" href="https://en.wikipedia.org/wiki/Turing_House_School">Turing House School</a></span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turing Institute" href="https://en.wikipedia.org/wiki/Turing_Institute">Turing Institute</a>, Glasgow, Scotland</span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turing jump" href="https://en.wikipedia.org/wiki/Turing_jump">Turing jump</a></span></li>
