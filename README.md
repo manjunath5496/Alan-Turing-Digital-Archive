@@ -1087,5 +1087,61 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <a href="https://www.youtube.com/watch?v=4vSgtEHzj-E&feature=youtu.be" rel="nofollow">Watch the video</a>
 
 
-
+<p>The&nbsp;<strong>list of things named after Alan Turing:</strong></p>
+<div class="div-col columns column-width">
+<ul>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Building" href="https://en.wikipedia.org/wiki/Alan_Turing_Building">Alan Turing Building</a>, Manchester, England</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Centenary Conference" href="https://en.wikipedia.org/wiki/Alan_Turing_Centenary_Conference">Alan Turing Centenary Conference</a>, Manchester, England</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Institute" href="https://en.wikipedia.org/wiki/Alan_Turing_Institute">Alan Turing Institute</a>, London, England</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing law" href="https://en.wikipedia.org/wiki/Alan_Turing_law">Alan Turing law</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Memorial" href="https://en.wikipedia.org/wiki/Alan_Turing_Memorial">Alan Turing Memorial</a>, Manchester, England</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing (sculpture)" href="https://en.wikipedia.org/wiki/Alan_Turing_(sculpture)">Alan Turing sculpture</a>, Eugene, Oregon, United States</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing statue" href="https://en.wikipedia.org/wiki/Alan_Turing_statue">Alan Turing statue</a>, Bletchley Park, England</span></li>
+<li><span style="color: #000000;"><em><a style="color: #000000;" title="Alan Turing: The Enigma" href="https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma">Alan Turing: The Enigma</a></em></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Year" href="https://en.wikipedia.org/wiki/Alan_Turing_Year">Alan Turing Year</a></span></li>
+<li><span style="color: #000000;"><em><a style="color: #000000;" title="The Annotated Turing" href="https://en.wikipedia.org/wiki/The_Annotated_Turing">The Annotated Turing</a></em></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Church&ndash;Turing thesis" href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis">Church&ndash;Turing thesis</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Church&ndash;Turing&ndash;Deutsch principle" href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing%E2%80%93Deutsch_principle">Church&ndash;Turing&ndash;Deutsch principle</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Good&ndash;Turing frequency estimation" href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation">Good&ndash;Turing frequency estimation</a></span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Object-Oriented Turing" href="https://en.wikipedia.org/wiki/Object-Oriented_Turing">Object-Oriented Turing</a>&nbsp;(programming language)</span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turing-acceptable language" href="https://en.wikipedia.org/wiki/Turing-acceptable_language">Turing-acceptable language</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">Turing Award</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing (cipher)" href="https://en.wikipedia.org/wiki/Turing_(cipher)">Turing (cipher)</a></span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turing College" href="https://en.wikipedia.org/wiki/Turing_College">Turing College</a>, Kent, England</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing completeness" href="https://en.wikipedia.org/wiki/Turing_completeness">Turing completeness</a></span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turing computability" href="https://en.wikipedia.org/wiki/Turing_computability">Turing computability</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing degree" href="https://en.wikipedia.org/wiki/Turing_degree">Turing degree</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing Foundation" href="https://en.wikipedia.org/wiki/Turing_Foundation">Turing Foundation</a>, Amsterdam, Netherlands</span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turing Gateway to Mathematics" href="https://en.wikipedia.org/wiki/Turing_Gateway_to_Mathematics">Turing Gateway to Mathematics</a>, Cambridge, England</span></li>
+<li><span style="color: #000000;"><em><a style="color: #000000;" title="The Turing Guide" href="https://en.wikipedia.org/wiki/The_Turing_Guide">The Turing Guide</a></em></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing House School" href="https://en.wikipedia.org/wiki/Turing_House_School">Turing House School</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing Institute" href="https://en.wikipedia.org/wiki/Turing_Institute">Turing Institute</a>, Glasgow, Scotland</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing jump" href="https://en.wikipedia.org/wiki/Turing_jump">Turing jump</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing Lecture" href="https://en.wikipedia.org/wiki/Turing_Lecture">Turing Lecture</a></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" title="Turing machine" href="https://en.wikipedia.org/wiki/Turing_machine">Turing machine</a></strong></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing Machine (band)" href="https://en.wikipedia.org/wiki/Turing_Machine_(band)">Turing Machine (band)</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing (microarchitecture)" href="https://en.wikipedia.org/wiki/Turing_(microarchitecture)">Turing (microarchitecture)</a></span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turing OS" href="https://en.wikipedia.org/wiki/Turing_OS">Turing OS</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing pattern" href="https://en.wikipedia.org/wiki/Turing_pattern">Turing pattern</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing Pharmaceuticals" href="https://en.wikipedia.org/wiki/Turing_Pharmaceuticals">Turing Pharmaceuticals</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing Phone" href="https://en.wikipedia.org/wiki/Turing_Phone">Turing Phone</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing (programming language)" href="https://en.wikipedia.org/wiki/Turing_(programming_language)">Turing (programming language)</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing reduction" href="https://en.wikipedia.org/wiki/Turing_reduction">Turing reduction</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing Robot" href="https://en.wikipedia.org/wiki/Turing_Robot">Turing Robot</a>, China</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing Robotic Industries" href="https://en.wikipedia.org/wiki/Turing_Robotic_Industries">Turing Robotic Industries</a>, San Francisco, California, United States</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing switch" href="https://en.wikipedia.org/wiki/Turing_switch">Turing switch</a></span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turing table" href="https://en.wikipedia.org/wiki/Turing_table">Turing table</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing tarpit" href="https://en.wikipedia.org/wiki/Turing_tarpit">Turing tarpit</a></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" title="Turing test" href="https://en.wikipedia.org/wiki/Turing_test">Turing test</a></strong></span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turing's Method" href="https://en.wikipedia.org/wiki/Turing%27s_Method">Turing's Method</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing's proof" href="https://en.wikipedia.org/wiki/Turing%27s_proof">Turing's proof</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turing's Wager" href="https://en.wikipedia.org/wiki/Turing%27s_Wager">Turing's Wager</a></span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turing+" href="https://en.wikipedia.org/wiki/Turing%2B">Turing+</a>&nbsp;(programming language)</span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turingery" href="https://en.wikipedia.org/wiki/Turingery">Turingery</a></span></li>
+<li><span style="color: #000000;"><a class="mw-redirect" style="color: #000000;" title="Turingismus" href="https://en.wikipedia.org/wiki/Turingismus">Turingismus</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turmite" href="https://en.wikipedia.org/wiki/Turmite">Turmite</a></span></li>
+<li><span style="color: #000000;"><a style="color: #000000;" title="Turochamp" href="https://en.wikipedia.org/wiki/Turochamp">Turochamp</a></span></li>
+</ul>
+</div>
+<h2><span style="color: #000000;">&nbsp;</span></h2>
 
