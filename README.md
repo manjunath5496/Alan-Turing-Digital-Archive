@@ -1085,10 +1085,9 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p>&nbsp;</p>
 <h2>Alan Turing: the man who cracked the Enigma code</h2>
 <a href="https://www.youtube.com/watch?v=4vSgtEHzj-E&feature=youtu.be" rel="nofollow">Watch the video</a>
+<p>&nbsp;</p>
+<h2>The list of things named after Alan Turing:</h2>
 
-
-<p>The&nbsp;<strong>list of things named after Alan Turing:</strong></p>
-<div class="div-col columns column-width">
 <ul>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Building" href="https://en.wikipedia.org/wiki/Alan_Turing_Building">Alan Turing Building</a>, Manchester, England</span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Centenary Conference" href="https://en.wikipedia.org/wiki/Alan_Turing_Centenary_Conference">Alan Turing Centenary Conference</a>, Manchester, England</span></li>
@@ -1142,6 +1141,5 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turmite" href="https://en.wikipedia.org/wiki/Turmite">Turmite</a></span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turochamp" href="https://en.wikipedia.org/wiki/Turochamp">Turochamp</a></span></li>
 </ul>
-</div>
-<h2><span style="color: #000000;">&nbsp;</span></h2>
+
 
