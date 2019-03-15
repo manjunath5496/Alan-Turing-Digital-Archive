@@ -959,6 +959,23 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>&nbsp;</strong>&nbsp;</p>
 </strong>&nbsp;</p>
 
+<img src="al1.jpg" alt="Alan Turing Digital Archive" width="250" height="354" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
+</strong>&nbsp;</p>
+
+<img src="al2.jpg" alt="Alan Turing Digital Archive" width="250" height="354" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
+</strong>&nbsp;</p>
+
+<img src="al3.jpg" alt="Alan Turing Digital Archive" width="250" height="354" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
+</strong>&nbsp;</p>
+
+<img src="al4.jpg" alt="Alan Turing Digital Archive" width="250" height="354" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
+</strong>&nbsp;</p>
+
+
 <img src="1c036.jpg" alt="Alan Turing Digital Archive" width="324" height="182" />
 <p><strong>Benedict Cumberbatch played Alan Turner in the 2014 American film, 'The Imitation Game'
 </strong>&nbsp;</p>
