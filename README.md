@@ -972,7 +972,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 </strong>&nbsp;</p>
 
 <img src="al4.jpg" alt="Alan Turing Digital Archive" width="250" height="354" />
-<p><strong>&nbsp;</strong>&nbsp;</p>
+<p><strong>The papers of Alan Turing assembled in the Archive Centre at King's College, Cambridge</strong>&nbsp;</p>
 </strong>&nbsp;</p>
 
 
