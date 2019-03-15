@@ -990,7 +990,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <img src="al7.jpg" alt="Alan Turing Digital Archive" width="259" height="194" />
 <p><strong>Road commemorating Alan Turing on the Research Park, Guildford.</strong>&nbsp;</p>
-
+<p><strong>&nbsp;</strong>&nbsp;</p>
 <img src="al8.jpg" alt="Alan Turing Digital Archive" width="403" height="633" />
 <p><strong>First page of Alan Turing's precis of The Theory of Relativity by Albert Einstein.</strong>&nbsp;</p>
 <p><strong>&nbsp;</strong>&nbsp;</p>
