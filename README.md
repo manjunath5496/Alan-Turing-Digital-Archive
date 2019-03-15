@@ -981,6 +981,19 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 </strong>&nbsp;</p>
 </strong>&nbsp;</p>
 
+<img src="al5.png" alt="Alan Turing Digital Archive" width="250" height="381" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
+
+
+<img src="al6.jpg" alt="Alan Turing Digital Archive" width="400" height="225" />
+<p><strong>&nbsp;</strong>&nbsp;</p>
+
+<img src="al7.jpg" alt="Alan Turing Digital Archive" width="259" height="194" />
+<p><strong>Road commemorating Alan Turing on the Research Park, Guildford.</strong>&nbsp;</p>
+
+<img src="al8.jpg" alt="Alan Turing Digital Archive" width="403" height="633" />
+<p><strong>First page of Alan Turing's precis of The Theory of Relativity by Albert Einstein.</strong>&nbsp;</p>
+
 
 
 116. "Mathematical Theory of ENIGMA Machine" </br> <a href="https://drive.google.com/file/d/1Y5JBbrU9DZWci358UmYBtZEU4UaGrzG-/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
