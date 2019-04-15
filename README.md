@@ -1123,6 +1123,25 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 " style ="text-decoration:none;"><span style ="color:red">Alan Turing - BBC Horizon Documentary</span></a></li> 
 <li><a target="_blank" href="https://www.youtube.com/watch?v=Btqro3544p8" style ="text-decoration:none;"><span style ="color:red">Alan Turing: Great Minds</span> </a></li> 
 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=WbjGb79zSm0" style ="text-decoration:none;"><span style ="color:red">Who Was Alan Turing?</span></a></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=nEomYB94TTI" style ="text-decoration:none;"><span style ="color:red">The enigma of WWII codebreaker Alan Turing </span> </a></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=g7_WzNzHwJY
+" style ="text-decoration:none;"><span style ="color:red">The Death of Alan Turing</span></a></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=ODAA5Euc_20
+" style ="text-decoration:none;"><span style ="color:red">Alan Turing and The Imitation Game</span> </a></li>
+
+
+<li><a target="_blank" href="https://www.youtube.com/watch?v=bB-EPWvOJtE" style ="text-decoration:none;"><span style ="color:red">Inside Bletchley Park: Where Alan Turing Cracked the Enigma Machine</span></a></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=PRK1eUqqIgg" style ="text-decoration:none;"><span style ="color:red">Alan Turing and the Birth of Artificial Intelligence</span> </a></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=sT1vmAKdbYY
+" style ="text-decoration:none;"><span style ="color:red">5 Defining moments Alan Turing gave to the world</span></a></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=rPLvj-GcfSU
+" style ="text-decoration:none;"><span style ="color:red">Alan Turing, Cybernetics and the Secrets of Life</span> </a></li>
+
+
+
+
+
 
 
 
