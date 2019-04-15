@@ -1116,9 +1116,11 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <h2>MORE ABOUT Alan Turing</h2>
 
 
+<ul> 
+<li><b><a target="_blank" href="https://www.youtube.com/watch?v=gtRLmL70TH0" style ="text-decoration:none;"><span style ="color:red">Alan Turing - Celebrating the life of a genius</span> For Beginners</a></b></li> 
 
 
-
+</ul>
 
 
 
