@@ -1117,7 +1117,15 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 
 <ul> 
-<li><b><a target="_blank" href="https://www.youtube.com/watch?v=gtRLmL70TH0" style ="text-decoration:none;"><span style ="color:red">Alan Turing - Celebrating the life of a genius</span> For Beginners</a></b></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=gtRLmL70TH0" style ="text-decoration:none;"><span style ="color:red">Alan Turing - Celebrating the life of a genius</span></a></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=3NODW5sok5U" style ="text-decoration:none;"><span style ="color:red">Dr. Andrew Hodges — Alan Turing: The Enigma</span> </a></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=Z-sTs2o0VuY
+" style ="text-decoration:none;"><span style ="color:red">Alan Turing - BBC Horizon Documentary</span></a></li> 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=Btqro3544p8" style ="text-decoration:none;"><span style ="color:red">Alan Turing: Great Minds</span> </a></li> 
+
+
+
+
 
 
 </ul>
