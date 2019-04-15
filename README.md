@@ -1113,8 +1113,31 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 </ul>
 
 <p>&nbsp;</p>
-<h2>Alan Turing: the man who cracked the Enigma code</h2>
-<a href="https://youtu.be/r6aCNonudOs" rel="nofollow">Watch the video</a>
+<h2>MORE ABOUT Alan Turing</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>&nbsp;</p>
 <h2>The list of things named after Alan Turing</h2>
 
