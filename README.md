@@ -1138,10 +1138,17 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <li><a target="_blank" href="https://www.youtube.com/watch?v=rPLvj-GcfSU
 " style ="text-decoration:none;"><span style ="color:red">Alan Turing, Cybernetics and the Secrets of Life</span> </a></li>
 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=cMxbSsRntv4
+" style ="text-decoration:none;"><span style ="color:red">Alan Turing's lost radio broadcast rerecorded </span> </a></li>
 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=57xXSfG39i0
+" style ="text-decoration:none;"><span style ="color:red">Alan Turing - Giants of Computer Science </span> </a></li>
 
+<li><a target="_blank" href="https://www.youtube.com/watch?v=p7Lv9GxigYU
+" style ="text-decoration:none;"><span style ="color:red">Turing: Pioneer of the Information Age </span> </a></li>
 
-
+<li><a target="_blank" href="https://www.youtube.com/watch?v=LSRP2g1rxBs
+" style ="text-decoration:none;"><span style ="color:red">Alan Turing's Brilliant but Overlooked Scientific Breakthrough</span> </a></li>
 
 
 
