@@ -1127,7 +1127,10 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
  <li><a target="_blank" href="https://www.iwm.org.uk/history/how-alan-turing-cracked-the-enigma-code
 " style ="text-decoration:none;"><span style ="color:red">How Alan Turing Cracked The Enigma Code</span></a></li>
  
- 
+  <li><a target="_blank" href="https://www.biographyonline.net/scientists/alan-turing.html" style ="text-decoration:none;"><span style ="color:red">Alan Turing Biography</span></a></li>   
+  
+ <li><a target="_blank" href="https://www.livescience.com/29483-alan-turing.html
+" style ="text-decoration:none;"><span style ="color:red">Alan Turing Biography: Computer Pioneer, Gay Icon</span></a></li>
  
   
 <li><a target="_blank" href="https://www.youtube.com/watch?v=gtRLmL70TH0" style ="text-decoration:none;"><span style ="color:red">Alan Turing - Celebrating the life of a genius</span></a></li> 
