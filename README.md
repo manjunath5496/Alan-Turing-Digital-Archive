@@ -1124,7 +1124,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
  
  <li><a target="_blank" href="https://www.bbc.com/timelines/z8bgr82" style ="text-decoration:none;"><span style ="color:red">Alan Turing: Creator of modern computing</span></a></li>   
   
- <li><a target="_blank" href="www.iwm.org.uk/history/how-alan-turing-cracked-the-enigma-code
+ <li><a target="_blank" href="https://www.iwm.org.uk/history/how-alan-turing-cracked-the-enigma-code
 " style ="text-decoration:none;"><span style ="color:red">How Alan Turing Cracked The Enigma Code</span></a></li>
  
  
