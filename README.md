@@ -996,14 +996,31 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>&nbsp;</strong>&nbsp;</p>
 
 
-116. "Mathematical Theory of ENIGMA Machine" </br> <a href="https://drive.google.com/file/d/1Y5JBbrU9DZWci358UmYBtZEU4UaGrzG-/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+116. Mathematical Theory of ENIGMA Machine. </br> <a href="https://drive.google.com/file/d/1Y5JBbrU9DZWci358UmYBtZEU4UaGrzG-/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
-117. "The Applications of Probability to Cryptography"</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+117. The Applications of Probability to Cryptography.</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
-118. "Paper on Statistics of Repetitions" </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+118. Paper on Statistics of Repetitions </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
+
+119. Looking Back: Alan Turing-The Father of Computer Science </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/aok1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+120. The Emotions of Alan Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/aok2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+121. The Alan Turing Institute </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/aok3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+122. Alan Turing's Manual for the Ferranti Mk. I</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/aok4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+123. The Mathematical Objection: Turing, G&ouml;del, and Penrose on the Mind </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/aok5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+
 
 <p>&nbsp;</p>
 
