@@ -1020,6 +1020,8 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 123. The Mathematical Objection: Turing, G&ouml;del, and Penrose on the Mind </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/aok5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+124. The Turing Digital Archive  </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/i86.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
 
 
 <p>&nbsp;</p>
