@@ -144,7 +144,7 @@
 </ul>
 </br>
 <p><strong>Further reading </strong></p>
-<p>________________________________________________________________________________________________________________________________</p>
+<hr>
 
 1.  Computing Machinery and Intelligence By Alan Turing</br>
               
@@ -1237,7 +1237,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <p>&nbsp;</p>
 <h2>MORE ABOUT Alan Turing</h2>
-<p>________________________________________________________________________________________________________________________________</p>
+
 
 <ul> 
   
@@ -1315,7 +1315,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <p>&nbsp;</p>
 <h2>The list of things named after Alan Turing</h2>
-<p>________________________________________________________________________________________________________________________________</p>
+
 <ul>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Building" href="https://en.wikipedia.org/wiki/Alan_Turing_Building">Alan Turing Building</a>, Manchester, England</span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Alan Turing Centenary Conference" href="https://en.wikipedia.org/wiki/Alan_Turing_Centenary_Conference">Alan Turing Centenary Conference</a>, Manchester, England</span></li>
