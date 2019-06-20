@@ -1409,7 +1409,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turmite" href="https://en.wikipedia.org/wiki/Turmite">Turmite</a></span></li>
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turochamp" href="https://en.wikipedia.org/wiki/Turochamp">Turochamp</a></span></li>
 </ul>
-
+</br>
 <p><strong>17 Riveting Facts On The Man Who Broke The Enigma</strong></p>
 <p>________________________________________________________________________________________________________________________________</p>
 <ol>
