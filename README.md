@@ -1127,6 +1127,46 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 124. The Turing Digital Archive  </br> <a href="https://drive.google.com/file/d/1OA_ZkpiZt4taR0EzWyuZLlD69d3Lz0So/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
+125. Pushing Back the Incomputable – Alan Turing's Ten Big Ideas </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(1).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+126. Turing, Computing and Communication </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(2).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+127. The computing legacy of Alan M. Turing (1912–1954) </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(3).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+128. A Turing Tale -- Assessing the accuracy of popular descriptions of Alan Turing's influences and legacy </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(4).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+129. Alan Turing and the Decision Problem </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(5).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+130. Breaking the Code </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(6).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+131. Can machines think? A report on Turing test experiments at the Royal Society </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(7).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+
+132. A celebration of Alan Turing's achievements in the year of his centenary </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(8).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+133. Turing on "Common Sense": Cambridge Resonances </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(9).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+134. Six Facts You Need To Know About The Bombe Machines </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(10).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+135. Some Reflections on Alan Turing's Centenary </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(11).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+136. Alan Turing, the Birth of Computing, and the Power of Mathematics</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(12).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
+137. Turing and the Integration of Human and Machine Intelligence </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(13).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+</br>
+
 
 <p>&nbsp;</p>
 
