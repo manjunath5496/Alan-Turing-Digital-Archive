@@ -1410,4 +1410,24 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <li><span style="color: #000000;"><a style="color: #000000;" title="Turochamp" href="https://en.wikipedia.org/wiki/Turochamp">Turochamp</a></span></li>
 </ul>
 
-
+<p><strong>17 Riveting Facts On The Man Who Broke The Enigma</strong></p>
+<p>________________________________________________________________________________________________________________________________</p>
+<ol>
+<li>He's The Father Of Modern Computer Science.</li>
+<li><strong>He Played A Huge Role In Winning World War II</strong>: Turing Broke The German Enigma Code During The Second World War.</li>
+<li>He Was Known For His Eccentricities.</li>
+<li>He Broke The Rules To Write To&nbsp;<a href="https://en.wikipedia.org/wiki/Winston_Churchill" target="_blank" rel="nofollow noopener">Churchill</a>.</li>
+<li><strong>He Had Some Odd Habits:&nbsp;</strong>He Rode His Bike 60 Miles To Get To The First Day Of School.</li>
+<li>He Tried Out For The Olympics.</li>
+<li>He Was Prosecuted For Being Gay: Alan Turing Had To Undergo Chemical Castration Because He Was Gay.</li>
+<li>The Government Only Recently Apologized For His Conviction &hellip;British PM&nbsp;<strong>Apologized For Treating Turing Unfairly During His Time</strong>.</li>
+<li>&hellip; And Named A Law After Him.</li>
+<li><strong>He Poisoned Himself &hellip; Maybe:</strong>&nbsp;Whether He Committed Suicide Is Debated.</li>
+<li>His Full Genius Wasn't Known In His Lifetime.</li>
+<li>Alan Turing Laid The Central Concept Of Modern Computers.</li>
+<li>The Turing Test Is Still Used To&nbsp;<strong>Measure Artificial Intelligence &hellip;</strong></li>
+<li>&hellip; But Some Consider It To Be An Outdated Idea.</li>
+<li>He Created The First Computer Chess Program.</li>
+<li>There Is&nbsp;<strong>Alan Turing Monopoly</strong>.</li>
+<li>Time Named Turing As&nbsp;<strong>One Of The 100 Most Important People Of The Century</strong>.</li>
+</ol>
