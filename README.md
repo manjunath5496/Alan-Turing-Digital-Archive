@@ -1411,7 +1411,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 </ul>
 </br>
 <p><strong>17 Riveting Facts On The Man Who Broke The Enigma</strong></p>
-<p>________________________________________________________________________________________________________________________________</p>
+<hr>
 <ol>
 <li>He's The Father Of Modern Computer Science.</li>
 <li><strong>He Played A Huge Role In Winning World War II</strong>: Turing Broke The German Enigma Code During The Second World War.</li>
