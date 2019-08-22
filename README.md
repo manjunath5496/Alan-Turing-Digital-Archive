@@ -1281,76 +1281,39 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 <ul> 
   
-<li><a target="_blank" href="https://www.britannica.com/biography/Alan-Turing" style ="text-decoration:none;"><span style ="color:red">Alan Turing | Biography, Facts, and Education</span></a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(1).pdf" style ="text-decoration:none;">Alan M. Turing: Centenary Edition</a></li>   
   
- <li><a target="_blank" href="http://www.turingarchive.org/" style ="text-decoration:none;"><span style ="color:red">The Turing Digital Archive </span></a></li>
- 
- <li><a target="_blank" href="https://www.bbc.com/timelines/z8bgr82" style ="text-decoration:none;"><span style ="color:red">Alan Turing: Creator of modern computing</span></a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(2).pdf" style ="text-decoration:none;">Alan Turing and His Contemporaries: Building the World's First Computers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(3).pdf" style ="text-decoration:none;">Alan Turing: Computing Genius and Wartime Code Breaker </a></li>   
   
- <li><a target="_blank" href="https://www.iwm.org.uk/history/how-alan-turing-cracked-the-enigma-code
-" style ="text-decoration:none;"><span style ="color:red">How Alan Turing Cracked The Enigma Code</span></a></li>
- 
-  <li><a target="_blank" href="https://www.biographyonline.net/scientists/alan-turing.html" style ="text-decoration:none;"><span style ="color:red">Alan Turing Biography</span></a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(4).pdf" style ="text-decoration:none;">Alan Turing: Unlocking the Enigma</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(5).pdf" style ="text-decoration:none;">Alan Turing's Electronic Brain</a></li>   
   
- <li><a target="_blank" href="https://www.livescience.com/29483-alan-turing.html
-" style ="text-decoration:none;"><span style ="color:red">Alan Turing Biography: Computer Pioneer, Gay Icon</span></a></li>
- 
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(6).pdf" style ="text-decoration:none;">Computing Nature: Turing Centenary Perspective</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(7).pdf" style ="text-decoration:none;">How the World Computes: Turing Centenary Conference and 8th Conference on Computability in Europe, CiE 2012
+Cambridge, UK, June 18-23, 2012 Proceedings </a></li>   
   
-<li><a target="_blank" href="https://www.youtube.com/watch?v=gtRLmL70TH0" style ="text-decoration:none;"><span style ="color:red">Alan Turing - Celebrating the life of a genius</span></a></li> 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=3NODW5sok5U" style ="text-decoration:none;"><span style ="color:red">Dr. Andrew Hodges — Alan Turing: The Enigma</span> </a></li> 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=Z-sTs2o0VuY
-" style ="text-decoration:none;"><span style ="color:red">Alan Turing - BBC Horizon Documentary</span></a></li> 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=Btqro3544p8" style ="text-decoration:none;"><span style ="color:red">Alan Turing: Great Minds</span> </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(8).pdf" style ="text-decoration:none;">Philosophical Explorations of the Legacy of Alan Turing</a></li>
 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=WbjGb79zSm0" style ="text-decoration:none;"><span style ="color:red">Who Was Alan Turing?</span></a></li> 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=nEomYB94TTI" style ="text-decoration:none;"><span style ="color:red">The enigma of WWII codebreaker Alan Turing </span> </a></li> 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=g7_WzNzHwJY
-" style ="text-decoration:none;"><span style ="color:red">The Death of Alan Turing</span></a></li> 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=ODAA5Euc_20
-" style ="text-decoration:none;"><span style ="color:red">Alan Turing and The Imitation Game</span> </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(9).pdf" style ="text-decoration:none;">The Case of Alan Turing: The Extraordinary and Tragic Story of the Legendary Codebreaker</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(10).pdf" style ="text-decoration:none;">The Man Who Knew Too Much: Alan Turing and the Invention of the Computer</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(11).pdf" style ="text-decoration:none;">The Turing Guide</a></li>
 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=bB-EPWvOJtE" style ="text-decoration:none;"><span style ="color:red">Inside Bletchley Park: Where Alan Turing Cracked the Enigma Machine</span></a></li> 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=PRK1eUqqIgg" style ="text-decoration:none;"><span style ="color:red">Alan Turing and the Birth of Artificial Intelligence</span> </a></li> 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=sT1vmAKdbYY
-" style ="text-decoration:none;"><span style ="color:red">5 Defining moments Alan Turing gave to the world</span></a></li> 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=rPLvj-GcfSU
-" style ="text-decoration:none;"><span style ="color:red">Alan Turing, Cybernetics and the Secrets of Life</span> </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(12).pdf" style ="text-decoration:none;">The Universal Computer: The Road from Leibniz to Turing </a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(13).pdf" style ="text-decoration:none;">Turing's Cathedral: The Origins of the Digital Universe</a></li>
 
-<li><a target="_blank" href="https://www.youtube.com/watch?v=cMxbSsRntv4
-" style ="text-decoration:none;"><span style ="color:red">Alan Turing's lost radio broadcast rerecorded </span> </a></li>
-
-<li><a target="_blank" href="https://www.youtube.com/watch?v=57xXSfG39i0
-" style ="text-decoration:none;"><span style ="color:red">Alan Turing - Giants of Computer Science </span> </a></li>
-
-<li><a target="_blank" href="https://www.youtube.com/watch?v=p7Lv9GxigYU
-" style ="text-decoration:none;"><span style ="color:red">Turing: Pioneer of the Information Age </span> </a></li>
-
-<li><a target="_blank" href="https://www.youtube.com/watch?v=LSRP2g1rxBs
-" style ="text-decoration:none;"><span style ="color:red">Alan Turing's Brilliant but Overlooked Scientific Breakthrough</span> </a></li>
-
-
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(14).pdf" style ="text-decoration:none;">Turing's Legacy: Developments from Turing's Ideas in Logic </a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tur(15).pdf" style ="text-decoration:none;">Alan Turing: A modern computing legacy</a></li>
 
 
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p>&nbsp;</p>
