@@ -169,7 +169,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 
 10.  A Bibliography of Publications of Alan Mathison Turing By Nelson H. F. Beebe </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-11.  Alan Turing: His Work and Impact By Jan van Leeuwen </br> <a href="https://drive.google.com/file/d/1hOlmAej0yrFql7-3hS28EgvtKKDg2DLf/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+11.  Alan Turing: His Work and Impact By Jan van Leeuwen </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 12.  The Essential Turing By B. Jack Copeland </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
