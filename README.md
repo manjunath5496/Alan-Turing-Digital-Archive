@@ -1124,7 +1124,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 123. The Mathematical Objection: Turing, G&ouml;del, and Penrose on the Mind </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/aok5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
-124. The Turing Digital Archive  </br> <a href="https://drive.google.com/file/d/1OA_ZkpiZt4taR0EzWyuZLlD69d3Lz0So/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+124. The Turing Digital Archive  </br> <a href="https://github.com/manjunath5496/Turing-Image-Archive" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
 125. Pushing Back the Incomputable – Alan Turing's Ten Big Ideas </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/tu(1).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
