@@ -154,7 +154,7 @@
 
 3.  The Applications of Probability to Cryptography By Alan Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
-4.  Turing's Treatise on the Enigma By Alan Turing</br> <a href="https://drive.google.com/file/d/1Q7zmJ2kAkvvvnzRCnjnZx3wBdRO3Rp6A/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+4.  Turing's Treatise on the Enigma By Alan Turing</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 5.  The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine By 
 Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
@@ -350,7 +350,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 95. Sara Turing: Alan M. Turing, Cambridge University Press, 2012</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t95.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
-96. Turing Lectures</br> <a href="https://drive.google.com/file/d/1mRViSv0B50QuTq0Ybz9XSz0lojFiv8s0/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+96. Turing Lectures</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t96.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
 97. A Bibliography of the ACM Turing Awards</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t97.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
@@ -383,7 +383,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 106. A Man of Machines</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t106.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
-107. Turing. A Staged Case History</br> <a href="https://drive.google.com/file/d/1JYqNgS47fVlnlrYTlRsPl2yXwKxM0jPA/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+107. Turing. A Staged Case History</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/t107.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
 
