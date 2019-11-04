@@ -1100,7 +1100,7 @@ Charles Petzold</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digit
 <p><strong>&nbsp;</strong>&nbsp;</p>
 
 
-116. Mathematical Theory of ENIGMA Machine. </br> <a href="https://drive.google.com/file/d/1Y5JBbrU9DZWci358UmYBtZEU4UaGrzG-/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+116. Mathematical Theory of ENIGMA Machine. </br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 </br>
 
 117. The Applications of Probability to Cryptography.</br> <a href="https://github.com/manjunath5496/Alan-Turing-Digital-Archive/blob/master/al2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
